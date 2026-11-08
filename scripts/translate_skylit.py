@@ -80,6 +80,11 @@ def main():
     for i, article in enumerate(data["articles"], 1):
         en = Path(article["markdown"])
         ko = en.with_name(en.stem + ".ko.md")
+        if ko.exists():
+            print(f"SKIP existing translation: {ko}", flush=True)
+            article["korean"] = str(ko)
+            output.append(article)
+            continue
         translated = translate_document(en.read_text(encoding="utf-8"), tr, cache)
         ko.write_text(
             f"<!-- Machine translation; review against original. Source: {article['url']} -->\n\n"
