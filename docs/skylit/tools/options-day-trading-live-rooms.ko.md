@@ -132,3 +132,6 @@ Nexus는 자신이 **어떻게 거래했는지 기록하고 복기하는 도구*
 ---
 
 > **검토 메모:** 경쟁사 소개·평점·Skylit 기능과 요금제 혜택은 원문 작성 당시 내용입니다. Live Stage 진행자의 의견은 **확정적인 시장 정보나 투자 권고가 아니며**, Nexus의 모의 손익은 실거래 성과의 보장이 아닙니다.
+
+
+> 관련 기능: [Heatseeker](https://www.skylit.ai/modules/heatseeker) · [Flowseeker](https://www.skylit.ai/modules/flowseeker) · [Atlas](https://www.skylit.ai/modules/atlas) · [Talon](https://www.skylit.ai/modules/talon)
