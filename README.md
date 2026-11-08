@@ -44,3 +44,10 @@ npm run docs:preview
 - [한국어 번역 워크플로](https://github.com/holelectron/option101/actions/workflows/translate-skylit.yml)
 
 > 자동 번역의 전문 용어와 숫자는 영어 원문을 대조해야 합니다. 자료는 학습용이며 투자 권유가 아닙니다.
+
+## 한국어 번역 품질 개선
+
+- [금융 용어집 및 한국어 스타일 기준](TRANSLATION_GLOSSARY.md)
+- [나머지 42개 문서 GPT 재번역 안내](TRANSLATION_WORKFLOW.md)
+
+기존 고품질 번역 3개는 보호하며, 다른 42개는 사용자가 API 키를 Actions Secret으로 등록한 후 수동으로 실행할 수 있습니다. 번역은 API 사용량에 따라 비용이 발생합니다.
