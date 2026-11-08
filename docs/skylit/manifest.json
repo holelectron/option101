@@ -366,5 +366,6 @@
     }
   ],
   "failures": [],
-  "translation_method": "Argos Translate en→ko, automatic draft"
+  "translation_method": "ChatGPT direct Korean retranslation, glossary-guided, with source comparison and structural checks",
+  "translation_status": "45/45 rewritten in Korean; AI-assisted human-in-the-loop commits; not independently professionally certified"
 }
