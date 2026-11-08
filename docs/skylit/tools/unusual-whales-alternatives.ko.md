@@ -1,128 +1,147 @@
-<!-- Reviewed translation · Source: https://www.skylit.ai/learn/unusual-whales-alternatives -->
+<!-- Reviewed Korean translation · Source: https://www.skylit.ai/learn/unusual-whales-alternatives -->
 
-# Unusual Whales 대안: 옵션 플로우와 딜러 익스포저를 함께 제공하는 도구
+# Unusual Whales 대안 비교(2026): 옵션 플로우와 딜러 포지셔닝
 
-> **번역 안내:** Skylit이 작성한 경쟁사 비교 글의 한국어 번역입니다. 기능·평가·요금제는 **2026년 9월 원문 기준**이며 현재 최신 사실이나 독립적 제품 순위가 아닙니다. [영어 원문](unusual-whales-alternatives.md)
+> **번역 안내:** 경쟁사의 서비스 특징과 가격은 원문이 **2026년 9월** 공급자 사이트를 참고한 내용입니다. 최신 상태와 기능은 각 서비스에서 확인하세요. [영어 원문](unusual-whales-alternatives.md)
 
-**Tools · 원문 약 8분**
+**Tools · 원문 약 9분**
 
-**Unusual Whales의 대안**을 찾는다면, 자신의 매매 분석에서 실제로 사용하는 도구가 무엇인지부터 확인해야 합니다. 이례적 옵션 체결 알림만 필요한가요? 아니면 딜러 포지셔닝·실시간 GEX/VEX·만기별 익스포저까지 보고 싶은가요? 원문은 오늘날 좋은 플랫폼을 선택하는 기준이 단순히 **옵션 플로우를 얼마나 빨리 보여주는지**가 아니라, 그 체결을 **딜러 헤지 구조와 연결해 이해할 수 있는지**에 있다고 주장합니다.
+**Unusual Whales의 가장 좋은 대안은 어떤 기능을 더 중요하게 생각하는지에 따라 달라집니다.** 옵션 체결을 딜러 포지셔닝과 함께 읽고 실시간 라이브 룸·사용자 지원을 원한다면 Skylit은 [Flowseeker](https://www.skylit.ai/modules/flowseeker)의 모든 옵션 체결 기록과 [Heatseeker](https://www.skylit.ai/modules/heatseeker)의 행사가·만기별 GEX·VEX를 하나의 웹 앱에 제공합니다. 원문에 따르면 모든 요금제에 일일 Live Stages와 Trader Success 팀이 있습니다.
 
-Skylit은 자사의 **Flowseeker + Heatseeker** 조합을 대안으로 제시합니다. Flowseeker는 매수·매도호가 체결 위치와 프리미엄, 스윕·다중 레그 여부를 보여주고, Heatseeker는 같은 행사가의 감마·바나 익스포저를 보여주기 때문에 개별 체결의 구조적 맥락을 함께 읽을 수 있다는 설명입니다.
+다양한 익스포저 지표가 필요하면 **QuantData**, 옵션 플로우·다크풀·GEX·바나를 함께 보려면 **BullFlow**, 간단한 화면을 원하면 **Cheddar Flow**, 스윕·블록·채팅방을 중시하면 **FlowAlgo**, 플로우·익스포저·뉴스·차트를 묶은 구독을 원하면 **TradeEcho**가 비교 대상입니다.
 
 ## Unusual Whales가 제공하는 것
 
-원문은 **Unusual Whales**를 개인 트레이더 사이에서 많이 사용되는 플랫폼이라고 소개합니다. 핵심은 **이례적 옵션 거래 스캐너**, 실시간 스윕·다중 레그 표시, 주식·ETF·지수 옵션 플로우, 다크풀 체결 자료입니다.
+**Unusual Whales**는 개인 투자자 대상 옵션 플로우 플랫폼 중 잘 알려져 있으며 기능 범위도 넓습니다. 미국 거래소의 주식·ETF·지수 옵션 체결을 제공하고 스윕·다중 레그를 표시한다고 설명합니다. 다크풀 데이터와 GEX 히트맵, SPX 마켓 메이커 익스포저 등 그릭스 분석도 포함됩니다.
 
-이외에 GEX·DEX·Vanna·Charm, 변동성 관련 분석 도구, 종목별 옵션 체인, 시장 전체 센티먼트, 미국 정치인 거래 기록, 커뮤니티, 공개 API, AI 기능도 제공한다고 소개합니다. 원문은 Unusual Whales가 단순한 스캐너를 넘어 상당히 폭넓은 옵션 정보 플랫폼이 됐다는 점을 인정합니다.
+그 밖에 큰 트레이딩 커뮤니티, **미국 의회 거래 데이터**, AI 분석가, 공개 API로 알려졌다고 원문은 소개합니다.
 
-따라서 다른 제품과 비교할 때 “Unusual Whales에는 GEX가 없다”는 전제는 부정확합니다. **GEX는 다른 업체도 제공합니다.** 차이는 데이터 표현 방식, 장중 갱신, 딜러 포지셔닝의 모델, 실제 체결과의 연결, 분석에 사용하는 화면 전환 과정 등에 있다는 것이 원문의 관점입니다.
+따라서 대안을 고르는 기준은 기능을 무작정 더하는 것이 아니라 **딜러 포지셔닝을 작업 흐름의 중심에 두는지, 라이브 룸·교육이 필요한지, 화면 사용성이 중요한지, 하나의 기능에 집중한 도구를 원하는지**입니다.
 
-## 비교할 때 우선 봐야 할 기능
+*경쟁사 정보는 원문 기준 **2026년 9월**에 확인됐습니다.*
 
-**실시간 데이터와 체결 상세 정보.** 거래를 볼 때 프리미엄 금액뿐 아니라 Side(Bid/Mid/Ask), 수량, 거래량, OI, 잔존 만기, 스윕 여부가 중요합니다. 큰 콜 매수처럼 보여도 실제로는 풋과 결합된 스프레드의 한 레그일 수 있습니다.
+## 대안을 고르는 방법
 
-**GEX·VEX를 같은 행사가에서 볼 수 있는가.** GEX는 기초자산 가격 변동에 따른 딜러 헤지 변화, VEX는 IV 변화에 따른 헤지 재조정을 설명합니다. 어느 한쪽만 보면 만기와 변동성 국면에 따라 중요한 힘을 놓칠 수 있습니다.
+- **실시간 모든 체결과 맥락:** Bid/Ask 체결 위치, 프리미엄, OI 대비 거래량, 스윕·다중 레그·크로스 표시, 다음 날 OI 변화까지 볼 수 있는지.
+- **플로우 옆의 딜러 포지셔닝:** 큰 GEX 노드인지 에어 포켓인지에 따라 같은 체결도 다르게 해석될 수 있습니다. GEX·VEX가 행사가·만기별로 표시되고 피드와 연결되는지 확인합니다.
+- **다크풀과 기업 이벤트:** 장외 체결·실적·내부자 신고·의회 거래 공시가 옵션 흐름을 해석하는 맥락이 될 수 있습니다.
+- **교육·지원:** 라이브 룸, 학습 콘텐츠, 질문할 수 있는 팀이 있는지.
+- **연습 환경:** 실제 돈을 위험에 노출하기 전 모의거래가 가능한지.
+- **구매할 요금제의 실제 범위:** 가장 저렴한 광고 요금이 아니라 자신이 선택할 등급의 기능을 비교합니다.
 
-**전체 만기의 익스포저.** 0DTE 당일 옵션과 30~90DTE 옵션은 다른 민감도를 갖습니다. 만기별 분포 없이 전체를 합친 숫자 하나만 보여주는 도구로는 서로 다른 헤지 흐름을 구분하기 어렵습니다.
+> ⚠️ **주의**  
+> 옵션 플로우는 **무엇이 거래됐는지** 보여주지 **다음에 무엇이 일어날지** 알려주지는 않습니다. **Ask 측 콜옵션 체결**도 헤지, 기존 포지션 청산, 스프레드의 한 레그일 수 있습니다. 거래 방향을 판단하기 전에 구조 분류·OI 대비 규모·다음 날 미결제약정을 확인해야 합니다.
 
-**원시 체결과 모델 신호의 구분.** 실제 체결 데이터와 딜러 포지셔닝 추정치를 혼동하지 않아야 합니다. “큰 스윕”이 발생한 사실은 관측할 수 있지만 “딜러가 반드시 가격 상승을 위해 매수해야 한다”는 결론은 모델의 포지션 가정이 필요합니다.
+## 주요 Unusual Whales 대안
 
-**교육·분석 흐름.** 매일 차트와 히트맵을 연결해 읽는 법을 보여주는 학습 자료, 질문에 대한 지원팀, 리플레이 기능이 있다면 도구를 지속해서 배우는 데 도움이 될 수 있습니다.
+### Skylit(Flowseeker + Heatseeker)
 
-## 경쟁 플랫폼 비교
+Skylit은 옵션 플로우와 딜러 포지셔닝을 같은 앱에서 분석하도록 설계됐다고 설명합니다. Flowseeker는 전체 OPRA 옵션 체결을 기반으로 **Side, Premium, Vol/OI, Size > OI, 다음 날 ΔOI, Sweep·Multi-leg·Cross**를 제공합니다. 자체 **Flow Score(–100~+100)**는 체결의 방향성을 **추정해 순위를 정하는 도구**이지 가격 예측값이 아닙니다.
 
-*다음 업체별 설명은 Skylit 원문이 **2026년 9월** 조사한 내용입니다.*
+Live Feed 외에 장외 주식 체결용 **Dark Feed**, 시장 전체 순콜·순풋 프리미엄을 나타내는 **Market Tide**에서 종목별 행사가까지 연결되는 **Flow Compass**, 실적·내부자·의회 공시를 보여주는 **Company Events**, **Flow Alerts**를 제공한다고 합니다.
 
-### Unusual Whales
+같은 앱의 Heatseeker는 행사가를 **행**, 만기를 **열**로 표시하고 **GEX·VEX**를 전환할 수 있습니다. **킹 노드**는 절댓값이 최대인 노드, **게이트키퍼**는 현물과 킹 노드 사이의 주요 수준입니다. **Velocity**는 노드 증가·감소, **Trinity Mode**는 기본적으로 **SPXW·SPY·QQQ**를 비교하고 Replay도 제공한다고 설명합니다.
 
-옵션 플로우, 다크풀 자료, GEX·DEX·바나·참 분석을 비롯해 AI 기능과 커뮤니티, 미국 의회 거래 데이터까지 제공한다고 소개됩니다. 종합적인 옵션 데이터 플랫폼으로 비교 기준이 되는 서비스입니다.
+Pro에서는 [Atlas](https://www.skylit.ai/modules/atlas)에 GEX·VEX·GEX+VEX, 옵션 플로우, 다크풀 수준을 함께 표시하고, AI [Talon](https://www.skylit.ai/modules/talon)이 같은 실시간 데이터를 조회할 수 있다고 합니다.
 
-### FlowAlgo
-
-실시간 옵션 스윕·대형 블록 체결과 다크풀 거래 자료를 강조하는 플랫폼입니다. 음성 알림과 빠른 필터, 채팅·AI 관련 기능을 제공한다고 원문은 설명합니다. 원문 조사 당시에는 홈페이지에 **GEX·VEX가 명확하게 언급되지 않았다**고 기록하지만, 이를 현재 기능의 부재로 단정할 수는 없습니다.
-
-### Cheddar Flow
-
-복잡한 화면보다 **이해하기 쉬운 UI**를 강조하는 옵션 플로우 도구로 소개됩니다. 스윕·다크풀, GEX 수준, AI 기반 알림 등을 제공합니다. 가격과 도구의 깊이를 함께 비교할 필요가 있습니다.
+**주요 특징:** 플로우와 딜러 포지셔닝의 통합, 앱 내 일일 Live Stages, 전 요금제의 Trader Success 팀, **Nexus(베타)** 모의거래.
 
 ### QuantData
 
-옵션 플로우·다크풀과 함께 **GEX·DEX·VEX·CHEX**, 장중 익스포저 변화율, 여러 기술적 지표를 제공하는 도구입니다. 다양한 분석 항목을 한 대시보드에 넣고 싶은 이용자를 대상으로 한다고 설명합니다.
+QuantData는 미국 거래소의 실시간 옵션 플로우를 **블록·스플릿·스윕 집계**와 개별 체결 형태로 보여주며, **Net Drift·Dark Flow**로 시장 전체와 다크풀도 볼 수 있다고 합니다. 행사가·만기별 다양한 딜러 익스포저와 장중 축적 과정, 주식·ETF·지수 지원, AI 에이전트용 API를 소개합니다.
+
+**주요 특징:** 다양한 지표와 데이터를 하나의 대시보드에 통합.
 
 ### BullFlow
 
-실시간 옵션 플로우·다크풀 체결, 스윕·다중 레그 분류, **GEX·VEX 히트맵과 리플레이**, 거래의 이례성 점수 및 AI 알림을 제공한다고 소개됩니다.
+**BullFlow**는 옵션 플로우·다크풀 추적 도구로, 스윕·스플릿·블록·다중 레그를 나누고 거래의 이례성을 점수화한다고 합니다. **GEX·VEX** 행사가·만기별 히트맵과 Replay, AI 알림도 제공하며 주요 지수·ETF·다수 주식을 지원한다고 설명합니다.
 
-### TradeEcho DealerEdge
+**주요 특징:** 이례성 점수와 GEX 과거 재생.
 
-TradeEcho의 옵션 플로우·뉴스·다크풀·차트와 **DealerEdge의 GEX·Vanna·Charm**이 결합된 플랫폼입니다. 옵션 체결과 딜러 포지셔닝을 한 구독 안에서 확인할 수 있다고 설명합니다.
+### Cheddar Flow
 
-### Skylit
+**Cheddar Flow**는 간결하고 사용하기 쉬운 화면으로 알려져 있습니다. 거래소 간 스윕, 크로스 등 체결 조건과 실시간 다크풀을 제공하며 상위 요금제에서는 **GEX 행사가·만기별 분석, 콜·풋 월, AI 알림, 감마 질문용 AI 비서**를 추가한다고 설명합니다.
 
-**Flowseeker**의 실시간 체결 흐름과 **Heatseeker**의 GEX/VEX 히트맵을 결합하며, 킹 노드·게이트키퍼·Velocity·Trinity Mode 등 구조적 분석 프레임워크를 강조합니다. Pro의 Talon AI, Atlas의 차트 오버레이, Replay, Nexus 모의거래 등도 포함됩니다. 각 기능이 실제로 현재 제공되는지와 요금제별 범위는 확인해야 합니다.
+**주요 특징:** 접근하기 쉬운 인터페이스.
 
-> 💡 **핵심 개념**  
-> 여러 업체가 이미 옵션 플로우뿐 아니라 GEX/VEX도 제공합니다. 따라서 제품 비교의 출발점은 **“어느 업체에 GEX가 있는가?”**가 아니라, **“내가 보고 있는 거래의 행사가에서 딜러 익스포저를 빠르게 확인하고 만기별로 비교할 수 있는가?”**입니다.
+### FlowAlgo
 
-## Skylit의 차별화 주장
+**FlowAlgo**는 실시간 옵션 스윕·블록 거래에 초점을 맞춥니다. 여러 거래소에 걸친 스윕과 단일 거래소의 스플릿을 구분하고, 주식 블록·다크풀 체결 및 관련 가격대를 보여준다고 합니다. **AI 신호, 음성 알림, 트레이더 채팅방**도 소개합니다.
 
-원문은 Skylit이 **OPRA·NASDAQ·CBOE에서 직접 라이선스를 받은 실시간 자료**를 사용하고 자체 딜러 미시구조 모델로 GEX·VEX를 계산한다고 설명합니다.
+**주요 특징:** 스윕·블록 분석, 음성 알림·커뮤니티.
 
-**Heatseeker:** 행사가×만기 히트맵, GEX/VEX 전환, 절댓값 최대 노드에 별표 표시, 셀 우클릭 시 King·Pika·Barney 역할 확인, 노드 접근·접촉 알림, Velocity·Trinity Mode, Replay를 소개합니다.
+### TradeEcho
 
-**Flowseeker:** 개별 체결에 Bid/Mid/Ask, Premium, DTE, OI, V/OI, 스윕·다중 레그·교차 표시와 **–100~+100 Flow Score**를 제공한다고 설명합니다. Live Feed·Scanner·Tracker, Dark Feed·Flow Compass·Contract Lookup 등으로 상세 분석할 수 있다고 소개합니다.
+**TradeEcho**는 옵션 플로우(스윕 프리셋), 다크풀, 뉴스, 차트, **DealerEdge**를 한 구독에 묶습니다. DealerEdge는 지수·ETF·주식의 **GEX·바나·참**을 행사가·만기별로 보여준다고 하며 AI 계층은 **Cortex**입니다.
 
-**교육·지원:** 모든 요금제에 Trader Success 팀과 Daily Live Stages, Pro에는 1:1 Success Session이 있다고 합니다. **2026년 9월 Trustpilot·Whop 평점 4.9**라는 자사 주장을 제시하며 현재 평점은 [Trustpilot](https://www.trustpilot.com/review/skylit.ai) 및 [Whop](https://whop.com/heatseeker)에서 확인할 수 있습니다.
+**주요 특징:** 여러 종류의 시장 데이터를 하나의 구독으로 통합.
 
-**상품 범위:** 원문 기준 Community에는 Flowseeker와 Discord Heatseeker Bot의 지수 맵, Initiate에는 웹 Heatseeker의 **63개 지수·ETF**, Pro에는 **5,000개 이상 티커**가 포함된다고 소개합니다. [현재 가격](https://www.skylit.ai/#pricing)은 별도 확인해야 합니다.
+## 빠른 비교
 
-## 플로우를 구조와 연결하는 예시
+*원문 기준 2026년 9월 공급업체 정보.*
 
-대형 콜 스윕을 발견했다고 생각해 보세요. 프리미엄이 크고 Ask에 체결됐다는 사실만으로 강세 포지션이라고 확정하기 어렵습니다. 먼저 해당 계약이 신규인지 청산인지, 다중 레그의 일부인지 확인해야 합니다.
+| 도구 | 옵션 플로우 | 딜러 익스포저 | 다크풀 | 기타 특징 |
+| --- | --- | --- | --- | --- |
+| **Skylit** | OPRA 전체 체결, 스윕·다중 레그·크로스 | Heatseeker GEX·VEX, Initiate **63개 지수·ETF**, Pro **5,000+ 티커** | Dark Feed | 일일 Live Stages, 지원팀, 킹 노드·게이트키퍼, Trinity·Velocity, Replay, Nexus(베타), Pro Talon |
+| **Unusual Whales** | 스윕·다중 레그 | GEX 히트맵·SPX 마켓 메이커 익스포저 | 지원 | 커뮤니티, 의회 거래, AI 분석, API |
+| **QuantData** | 블록·스플릿·스윕 | 행사가·만기별 | Dark Flow | Net Drift, 광범위한 지표, AI API |
+| **BullFlow** | 스윕·스플릿·블록·다중 레그 | GEX·VEX | 지원 | 이례성 점수, AI 알림, GEX Replay |
+| **Cheddar Flow** | 스윕 | 상위 요금제 GEX | 지원 | 쉬운 UI, AI 알림·비서 |
+| **FlowAlgo** | 스윕·스플릿 | 원문 기준 사이트에 미기재 | 지원 | AI 신호, 음성 알림, 채팅방 |
+| **TradeEcho(DealerEdge)** | 스윕 프리셋 | GEX·바나·참 | 지원 | 뉴스·차트·Cortex AI 통합 |
 
-그다음 같은 행사가의 **GEX 부호와 현물 가격의 위치**를 살펴봅니다. 딜러가 **숏 감마**인 것으로 추정되는 구간이라면 가격 상승에 따른 헤지 매수가 움직임을 증폭할 수 있습니다. 반면 **롱 감마**로 추정되는 큰 노드라면 상승 시 딜러의 매도 헤지가 움직임을 흡수할 수 있습니다.
+## Skylit을 선택하는 이유
 
-이 분석은 예측 정확도를 보장하지 않지만 **같은 옵션 체결이 왜 서로 다른 가격 반응을 만들 수 있는지** 이해하는 데 유용합니다. [GEX 도구 비교](https://www.skylit.ai/learn/best-gex-tools)와 [옵션 플로우 도구 비교](https://www.skylit.ai/learn/best-options-flow-tools)를 참고하세요.
+다음은 판매자인 Skylit이 직접 제시한 강점입니다.
 
-## 어떤 플랫폼을 선택할까요?
-
-원문은 **가장 저렴한 도구가 아니라 실제 분석 흐름에 맞는 도구**를 선택하라고 제안합니다.
-
-- **체결 피드를 빠르게 보고 싶다면:** 실시간 스윕, Side, 필터와 모바일 사용성을 비교합니다.
-- **딜러 포지셔닝 중심이라면:** GEX·VEX, 행사가별 분포, 만기 구분, 데이터 갱신 주기를 확인합니다.
-- **교육·커뮤니티가 중요하다면:** 라이브 세션, 예제, 사용자 지원, 재생 기능을 비교합니다.
-- **다양한 플랫폼을 이미 사용한다면:** 별도 도구를 추가하는 비용·화면 전환의 번거로움과 한 터미널의 통합 편익을 비교합니다.
-
-특히 서비스가 제공하는 **실시간**이 정확히 무엇을 뜻하는지 확인해야 합니다. 원시 옵션 체결이 실시간이라도 딜러 익스포저 모델이 같은 속도로 갱신되지는 않을 수 있습니다.
+- [Trustpilot](https://www.trustpilot.com/review/skylit.ai)·[Whop](https://whop.com/heatseeker)의 **4.9점(2026년 9월)**을 소개합니다.
+- 전 요금제 Trader Success 팀과 Pro **1:1 Success Sessions**([지원 메일](mailto:support@skylit.ai)).
+- 앱 내 매일 열리는 [Live Stages](https://www.skylit.ai/learn/options-day-trading-live-rooms), 다른 화면을 보며 들을 수 있는 백그라운드 재생.
+- Flowseeker의 개별 체결과 Heatseeker의 **킹 노드·게이트키퍼·행사가별 익스포저**를 같은 앱에서 확인.
+- 특정 과거 시점부터 Heatseeker와 Atlas를 재생하는 **Replay**.
+- [Tempest](https://www.skylit.ai/modules/tempest)(Pro)의 IV·예상 변동 범위.
+- **Nexus(베타)** 모의거래, **Aethos(4분기 출시 예정이라고 원문에 기재)**의 프롭펌 선물 주문·DOM·Level 3.
+- 외부 AI·도구 연결용 **API·MCP(베타)**.
 
 ### Skylit Terminal에서 확인하기
 
-Skylit은 옵션 플로우와 딜러 포지셔닝을 같은 터미널에 연결해 시장 데이터를 더 깊이 읽는 환경을 제공한다고 설명합니다.
+Flowseeker 옵션 플로우와 Heatseeker GEX·VEX 보드가 한 웹 앱에 제공된다는 설명입니다.
 
-[Skylit Terminal 사용하기](https://app.skylit.ai/?utm_source=skylit_landing&utm_medium=website&sl_relay=1)
+[Skylit Terminal 열기](https://app.skylit.ai/?utm_source=skylit_landing&utm_medium=website&sl_relay=1)
+
+## 요금제별 구성
+
+| 요금제 | 옵션 흐름·포지셔닝 | 추가 기능 |
+| --- | --- | --- |
+| **Community** | Flowseeker, Discord Heatseeker Bot의 지수 맵 | Discord, Nexus, Academy, Live Stages, Trader Success |
+| **Initiate** | Community 전체 + 웹 Heatseeker **63개 지수·ETF** | 지수·선물 Atlas |
+| **Pro** | Initiate 전체 + Heatseeker **5,000+ 티커** | 모든 상품 Atlas, AI Talon, Tempest, 1:1 Success Sessions |
+
+원문은 유료 요금제의 무료 체험이 없지만 Live Stages를 하루 **60분 무료** 이용할 수 있다고 설명합니다. 최신 가격은 [공식 페이지](https://www.skylit.ai/#pricing), 더 넓은 비교는 [옵션 플로우 도구](https://www.skylit.ai/learn/best-options-flow-tools)와 [GEX 도구](https://www.skylit.ai/learn/best-gex-tools)를 참고하세요.
+
+*교육 자료로 금융 자문이 아닙니다. 옵션 거래에는 큰 위험이 있습니다.*
 
 ## 자주 묻는 질문
 
-### Unusual Whales 대신 사용할 만한 서비스는 무엇인가요?
+### Unusual Whales의 가장 좋은 대안은 무엇인가요?
 
-원문은 **FlowAlgo, Cheddar Flow, QuantData, BullFlow, TradeEcho, Skylit** 등을 소개합니다. 거래 흐름의 속도와 기능, 딜러 GEX/VEX 분석, 다크풀 자료, AI·교육 기능의 필요 여부에 따라 적합성이 달라집니다. 특정 서비스 하나가 모든 사용자에게 최선인 것은 아닙니다.
+원하는 기능에 따라 다릅니다. **Skylit**은 플로우와 GEX·VEX, 라이브 교육·지원팀을 함께 제공하는 조합을 내세웁니다. **QuantData**는 지표 다양성, **BullFlow**는 GEX·VEX·다크풀, **Cheddar Flow**는 직관적 화면, **FlowAlgo**는 스윕·블록·채팅방, **TradeEcho**는 뉴스·차트까지 포함하는 통합형 구성을 강조합니다.
 
-### Unusual Whales에도 GEX와 바나 분석이 있나요?
+### Unusual Whales의 무료 대안이 있나요?
 
-원문은 **있다고 설명합니다.** 감마·델타·바나·참 익스포저 도구와 다크풀·옵션 플로우·커뮤니티·API가 제공된다고 소개합니다. 따라서 경쟁사를 ‘GEX가 없는 플랫폼’으로 단정해서 비교하면 안 됩니다. 현재 기능은 공식 사이트에서 확인해야 합니다.
+원문 기준 Skylit의 **유료 플랜에는 별도 무료 체험이 없고** Live Stages는 하루 **60분 무료**입니다. Flowseeker는 유료 Community부터 포함됩니다. 다른 서비스의 무료 등급·가격은 각 업체 사이트에서 확인하세요.
 
-### Skylit은 Unusual Whales와 어떻게 다른가요?
+### Skylit에도 Unusual Whales 같은 옵션 플로우가 있나요?
 
-원문은 Skylit이 단순한 체결 피드보다 **킹 노드·게이트키퍼·에어 포켓·Trinity·Velocity Mode** 중심의 딜러 포지셔닝 해석과 Flowseeker·Atlas·Talon의 통합을 강조한다고 설명합니다. 반면 Unusual Whales도 폭넓은 옵션·다크풀·정치인 거래·AI 자료를 갖춘 서비스로 소개됩니다.
+원문에 따르면 Flowseeker는 OPRA 전체 체결, Side·프리미엄·OI 대비 수량, 다음 날 OI 변화, 스윕·다중 레그·크로스를 제공하고, **Dark Feed**, **Flow Compass**, **Company Events**, **Flow Alerts**도 포함합니다.
 
-### 옵션 플로우와 GEX 분석 중 무엇을 우선해야 하나요?
+### Skylit은 Unusual Whales와 무엇이 다른가요?
 
-원문은 **차트 구조와 GEX/VEX를 먼저 이해한 뒤 옵션 플로우를 추가**하는 접근을 권합니다. 플로우는 체결이 무엇이었는지 보여주고 딜러 모델은 특정 가격대의 헤징 메커니즘을 해석합니다. 어느 쪽도 단독으로 확정적인 방향성 신호는 아닙니다.
+두 플랫폼 모두 옵션 플로우·다크풀·딜러 익스포저를 제공합니다. Skylit은 **Heatseeker의 GEX·VEX**, 킹 노드·게이트키퍼·Velocity·Trinity Mode를 Flowseeker와 같은 앱에 넣고, 일일 Live Stages와 지원팀을 제공한다는 점을 강조합니다. Unusual Whales는 **큰 커뮤니티, 의회 거래 데이터, AI 분석가, 공개 API**가 특징으로 소개됩니다.
 
-### 가장 저렴한 도구를 고르면 안 되나요?
+### 옵션 플로우와 GEX를 함께 보려면 어떤 요금제가 필요한가요?
 
-저렴한 가격이 장점일 수 있지만 필요한 데이터가 빠지면 분석 목적을 달성하기 어렵습니다. 요금제별 실제 제공 기능, 실시간 데이터 범위, 갱신 주기, 해지·환불 정책을 비교하세요. 원문은 도구의 개수보다 **자신의 거래 흐름에 필요한 정보를 연결할 수 있는지**가 중요하다고 강조합니다.
+원문 기준 **Initiate**는 Flowseeker, **63개 지수·ETF Heatseeker**, 지수·선물 Atlas를 포함합니다. **Pro**는 Heatseeker **5,000+ 티커**, 전체 Atlas, Talon·1:1 세션으로 확장됩니다. **Community**는 Flowseeker와 Discord Heatseeker Bot 지수 맵을 제공합니다.
 
 ### 더 알아보기
 
@@ -130,4 +149,4 @@ Skylit은 옵션 플로우와 딜러 포지셔닝을 같은 터미널에 연결�
 
 ---
 
-> **비교 검토 메모:** 본 문서는 **Skylit이 작성한 경쟁사 대안 소개**입니다. 경쟁사 기능과 Skylit의 우수성에 대한 서술은 원문 주장이지 독립적 최신 검증 결과가 아닙니다. 가격·성능·데이터 제공·후기·서비스 이용약관을 계약 전 다시 확인하세요.
+> **검토 메모:** Ask 측 콜 체결, 스윕, 높은 V/OI만으로 신규 기관 매수나 투자 의도를 확정할 수 없습니다. 모든 경쟁사·요금제 설명은 시점이 명시된 원문 비교이며 현재의 독립 평가가 아닙니다.
