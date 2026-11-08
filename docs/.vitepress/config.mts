@@ -29,7 +29,7 @@ export default defineConfig({
   description: 'Options trading research & Skylit knowledge hub',
   base: '/option101/',
   cleanUrls: true,
-  srcExclude: ['skylit/**/*.ko.md', 'skylit/**/*.html', 'skylit/_landing.html'],
+  srcExclude: ['skylit/**/*.ko.md', 'skylit/**/*.html', 'skylit/_landing.html', 'skylit/KO_INDEX.md'],
   sitemap: { hostname: 'https://holelectron.github.io/option101/' },
   head: [['meta', { name: 'theme-color', content: '#101a2c' }]],
   locales: {
