@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 import { readFileSync } from 'node:fs'
 import { fileURLToPath } from 'node:url'
 import { dirname, resolve } from 'node:path'
-import './theme/custom.css'
 
 const here = dirname(fileURLToPath(import.meta.url))
 const manifest = JSON.parse(readFileSync(resolve(here, '../skylit/manifest.json'), 'utf8'))
