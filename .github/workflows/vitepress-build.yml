@@ -5,6 +5,8 @@ on:
     paths:
       - 'docs/**'
       - 'scripts/prepare-site.mjs'
+      - 'scripts/translate_skylit_gpt.py'
+      - 'TRANSLATION_GLOSSARY.md'
       - 'package.json'
       - '.github/workflows/vitepress-build.yml'
   workflow_dispatch:
@@ -21,6 +23,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Check translation script syntax
+        run: python -m py_compile scripts/translate_skylit_gpt.py
       - name: Install VitePress
         run: npm install --no-audit --no-fund
       - name: Build bilingual documentation
