@@ -1,6 +1,10 @@
 name: Improve Korean Translations (GPT)
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/translate-skylit-gpt.yml'
   workflow_dispatch:
     inputs:
       limit:
@@ -35,7 +39,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           TRANSLATION_MODEL: gpt-6.1-sol
-          LIMIT: ${{ inputs.limit }}
+          LIMIT: ${{ inputs.limit || '0' }}
         run: python scripts/translate_skylit_gpt.py --write --limit "$LIMIT"
       - name: Commit validated translations and quality report
         if: always()
