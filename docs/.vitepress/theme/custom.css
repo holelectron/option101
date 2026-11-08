@@ -1,0 +1,25 @@
+:root {
+  --vp-c-brand-1: #146b78;
+  --vp-c-brand-2: #248f9c;
+  --vp-c-brand-3: #4dbac2;
+  --vp-c-brand-soft: rgba(36,143,156,.12);
+  --vp-font-family-base: Inter, Pretendard, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+.dark {
+  --vp-c-brand-1: #7bd9d9;
+  --vp-c-brand-2: #51bac4;
+  --vp-c-brand-3: #248f9c;
+  --vp-c-brand-soft: rgba(81,186,196,.14);
+  --vp-c-bg: #0b1423;
+  --vp-c-bg-soft: #111f30;
+}
+.VPHomeHero .name { background: linear-gradient(110deg,#26a6af 20%,#5867dd 90%); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+.VPDoc h1 { letter-spacing: -.025em; line-height: 1.22; }
+.VPDoc h2 { padding-top: 12px; }
+.vp-doc { font-size: 15px; line-height: 1.85; }
+.vp-doc blockquote { border-left-color: var(--vp-c-brand-1); background: var(--vp-c-brand-soft); padding: 12px 18px; border-radius: 0 10px 10px 0; }
+.vp-doc table { display: table; width: 100%; }
+.vp-doc th { background: var(--vp-c-bg-soft); }
+.VPSidebar .text { line-height: 1.55; }
+.VPFeature { border: 1px solid var(--vp-c-divider); transition: transform .15s ease, box-shadow .15s ease; }
+.VPFeature:hover { transform: translateY(-2px); box-shadow: 0 9px 28px rgba(10,25,40,.07); }
