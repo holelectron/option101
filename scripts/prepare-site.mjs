@@ -5,7 +5,6 @@ const root = process.cwd()
 const source = path.join(root, 'docs', 'skylit')
 const destination = path.join(root, 'docs', 'ko', 'skylit')
 const manifest = JSON.parse(fs.readFileSync(path.join(source, 'manifest.json'), 'utf-8'))
-const present = new Set()
 
 for (const a of manifest.articles) {
   const englishPath = path.join(root, a.markdown)
@@ -14,12 +13,9 @@ for (const a of manifest.articles) {
   const translatedPath = englishPath.replace(/\.md$/, '.ko.md')
   fs.mkdirSync(path.dirname(output), { recursive: true })
   const hasTranslation = fs.existsSync(translatedPath)
-  present.add(output)
   if (hasTranslation) {
     // The original and generated files stay separate: originals remain intact.
-    let text = fs.readFileSync(translatedPath, 'utf-8')
-    text = text.replaceAll(/\]\(([^)#]+)\.md\)/g, (_, target) =>
-      target.startsWith('http') ? `](' + target + '.md)` : `](' + target + '.md)`)
+    const text = fs.readFileSync(translatedPath, 'utf-8')
     fs.writeFileSync(output, text)
   } else {
     fs.writeFileSync(output, `# ${a.title}\n\n> 한국어 번역이 준비 중입니다. 현재 [영어 원문](/skylit/${relative.replace(/\\/g, '/').replace(/\.md$/, '')})을 읽을 수 있습니다.\n\n[원본 사이트](${a.url})\n`)
