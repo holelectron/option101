@@ -23,3 +23,61 @@
 .VPSidebar .text { line-height: 1.55; }
 .VPFeature { border: 1px solid var(--vp-c-divider); transition: transform .15s ease, box-shadow .15s ease; }
 .VPFeature:hover { transform: translateY(-2px); box-shadow: 0 9px 28px rgba(10,25,40,.07); }
+
+
+/* Mobile reading experience: swipeable tables/code, readable long formulas and titles. */
+.vp-doc img,
+.vp-doc video,
+.vp-doc iframe {
+  max-width: 100%;
+  height: auto;
+}
+.vp-doc table {
+  display: block;
+  width: max-content;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.vp-doc div[class*="language-"],
+.vp-doc .math-display,
+.vp-doc .katex-display {
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.vp-doc a {
+  overflow-wrap: anywhere;
+}
+@media (max-width: 767px) {
+  .VPHomeHero .name,
+  .VPHomeHero .text {
+    overflow-wrap: anywhere;
+    font-size: clamp(1.9rem, 8vw, 2.8rem);
+    line-height: 1.18;
+  }
+  .vp-doc {
+    font-size: 16px;
+    line-height: 1.8;
+    overflow-wrap: break-word;
+  }
+  .vp-doc h1 {
+    font-size: 1.8rem;
+    line-height: 1.3;
+    word-break: keep-all;
+    overflow-wrap: anywhere;
+  }
+  .vp-doc h2 { font-size: 1.4rem; }
+  .vp-doc h3 { font-size: 1.17rem; }
+  .vp-doc th,
+  .vp-doc td {
+    min-width: 110px;
+    padding: 8px 12px;
+    white-space: normal;
+  }
+  .vp-doc blockquote { padding: 10px 12px; }
+  .VPFeature:hover { transform: none; box-shadow: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .VPFeature { transition: none; }
+}
