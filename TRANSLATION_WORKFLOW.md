@@ -1,56 +1,33 @@
-# 한국어 번역 진행 현황
+# option101 한국어 번역 완료 현황
 
-2026-11-08 기준: **45개 중 40개 문맥 기반 한국어 재번역 완료**, 영어 원문 45개 모두 보존.
+**2026-11-08 기준: Skylit Learn 45개 문서의 문맥 기반 한국어 재번역 완료.**
 
-완료: Academy 12/12, Greeks 8/8, Heatseeker 7/7, Flowseeker 6/6, Tools 7/12.
-미완료 Tools: `options-day-trading-live-rooms`, `best-gex-tools-0dte-spx`, `options-data-api-mcp-ai-agents`, `spotgamma-alternatives`, `tempest-volatility-accuracy`.
+| 구분 | 완료 / 전체 |
+| --- | --- |
+| Academy | 12 / 12 |
+| Greeks | 8 / 8 |
+| Heatseeker | 7 / 7 |
+| Flowseeker | 6 / 6 |
+| Tools | 12 / 12 |
+| **합계** | **45 / 45** |
 
-앞서 마련한 API 번역 워크플로는 **별도로 실행하지 않아도 됩니다.** 이번 개선본은 채팅에서 직접 번역·GitHub 커밋했으며, 기존 5개의 Argos 번역 초안은 보존되어 있습니다. 원문은 비교·판매 목적의 내용도 포함하므로 금융 사실과 공급사의 주장을 구분해야 합니다.
+영어 원문 Markdown과 HTML은 그대로 유지하고, 각 문서에 별도의 `*.ko.md` 번역본을 작성했습니다. 번역은 ChatGPT에서 직접 작성한 후 GitHub에 커밋했으며 **OpenAI API 키나 GitHub의 유료 API 번역 실행은 필요하지 않았습니다.**
 
-검증 현황: [번역 구조·URL 대조 리포트](docs/skylit/manual_translation_review.json).
+## 검수와 자료 성격
 
----
+- [금융 용어집](TRANSLATION_GLOSSARY.md)의 용어를 바탕으로 자연스러운 한국어로 작성했습니다.
+- 원문 장·절, 표, 숫자, 링크, 사례 및 금융 모델의 단서를 비교했습니다.
+- 업체·요금·기능·평점·연구 결과에 관한 내용은 원문 작성 시점의 주장입니다. 최신 사실 및 독립 검증을 의미하지 않습니다.
+- [기존 자동 검토 파일](docs/skylit/manual_translation_review.json)은 생성 시점의 기록이므로 지금의 최종 상태와 다를 수 있습니다.
+- **전체 문서는 AI 재번역본이며 전문 번역사·금융 자격자의 독립 감수 완료를 의미하지 않습니다.** 중요한 거래 판단에는 영어 원문과 현재 공급업체 자료를 확인하세요.
 
-# 한국어 번역 고도화: 42개 문서 실행 안내
+## 보존 및 실행
 
-## 현재 상태
+- [한국어 전체 목차](docs/skylit/KO_INDEX.md)
+- [영어 원문 목차](docs/skylit/INDEX.md)
+- [VitePress 한국어 홈페이지](https://holelectron.github.io/option101/ko/)
+- 기존 `scripts/translate_skylit.py`는 이미 존재하는 `*.ko.md` 파일을 덮어쓰지 않도록 수정했습니다.
+- `.github/workflows/translate-skylit-gpt.yml`은 **선택적인 추가 재번역 자동화**이며 실행하려면 별도의 OpenAI API 키와 비용이 필요합니다. 현재 45개 문서를 보는 데 사용할 필요는 없습니다.
+- GitHub Pages 배포는 `.github/workflows/deploy-pages.yml`에서 수행합니다.
 
-- 영어 원문 45개 보존
-- Options Greeks, Gamma Exposure, Dealer Positioning의 한국어 번역 3개는 문맥 중심으로 수동 개선 완료
-- 나머지 42개는 기존 Argos 자동 번역 초안 상태
-- GPT 일괄 번역 스크립트와 용어집 준비 완료. **아직 실행되지 않았음**
-
-## 일괄 번역 실행
-
-1. GitHub 저장소의 **Settings → Secrets and variables → Actions → New repository secret**에서 이름 `OPENAI_API_KEY`로 본인 OpenAI API 키를 저장합니다.
-2. [Improve Korean Translations (GPT)](https://github.com/holelectron/option101/actions/workflows/translate-skylit-gpt.yml) → **Run workflow**를 누릅니다.
-3. 우선 `limit=1`로 시험하고, 성공·비용·번역 품질을 확인한 다음 `limit=0`으로 나머지 42개를 실행합니다.
-4. 각 문서는 모든 섹션을 번역한 후 링크/제목/표 개수 등을 검증합니다. 실패한 문서는 기존 파일을 유지하고 결과를 `docs/skylit/translation_quality_report.json`에 기록합니다.
-5. 커밋되면 VitePress 배포 워크플로가 변경된 한국어 페이지를 재빌드합니다.
-
-### 모델과 비용
-
-- 기본값: `gpt-6.1-sol` (GitHub Actions workflow 환경 변수에서 변경 가능)
-- OpenAI API는 ChatGPT 구독과 별도로 사용량에 따라 과금됩니다.
-- 처음에는 1개 문서로 토큰 사용량·비용과 품질을 확인하세요.
-- API 키를 이 저장소에 평문 파일로 올리거나 채팅 메시지에 붙여 넣지 마세요.
-
-## 보존 및 검증 기준
-
-- 영어 `.md`와 원본 `.html`은 절대 수정하지 않습니다.
-- 앞서 검수한 3개 한국어 문서도 자동 번역 대상에서 제외합니다.
-- 문단을 요약하지 않고 원문 전체를 번역합니다.
-- 제목 구조, 표의 행 수, 하이퍼링크 URL 일치 여부를 자동 검사합니다.
-- 수치 마커에 차이가 있으면 품질 보고서에 기록하고 사람이 검토해야 합니다.
-- 자동 검사를 통과해도 문맥·전문성의 완전한 정확성을 보장하지는 않습니다.
-
-## 주요 파일
-
-- [금융 번역 용어집](TRANSLATION_GLOSSARY.md)
-- [GPT 번역 스크립트](scripts/translate_skylit_gpt.py)
-- [GPT 번역 워크플로](.github/workflows/translate-skylit-gpt.yml)
-- [전체 한국어 문서](docs/skylit/KO_INDEX.md)
-
-## 주의
-
-원문에 있는 시장 해석은 원저자와 데이터 공급사의 모델에 따른 것입니다. 원문을 번역한다는 이유로 시장 메커니즘을 확정적인 투자 신호로 받아들이면 안 됩니다.
+자료는 학습용이며 투자 권유가 아닙니다.
