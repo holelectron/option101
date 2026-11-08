@@ -1,0 +1,324 @@
+{
+  "source": "https://www.skylit.ai/learn",
+  "checked_at": "2026-11-08T11:06:13.630969+00:00",
+  "discovered": 45,
+  "saved": 45,
+  "articles": [
+    {
+      "title": "Charts First: Market Structure Before Exposure",
+      "url": "https://www.skylit.ai/learn/charts-first",
+      "category": "academy",
+      "html": "docs/skylit/academy/charts-first.html",
+      "markdown": "docs/skylit/academy/charts-first.md"
+    },
+    {
+      "title": "Intro to Gamma: Pika Nodes, Barney Nodes, and the Absolute Value Rule",
+      "url": "https://www.skylit.ai/learn/intro-to-gamma",
+      "category": "academy",
+      "html": "docs/skylit/academy/intro-to-gamma.html",
+      "markdown": "docs/skylit/academy/intro-to-gamma.md"
+    },
+    {
+      "title": "Reading Heatseeker Maps: King Nodes, Gatekeepers, Floors, and Ceilings",
+      "url": "https://www.skylit.ai/learn/reading-heatseeker",
+      "category": "academy",
+      "html": "docs/skylit/academy/reading-heatseeker.html",
+      "markdown": "docs/skylit/academy/reading-heatseeker.md"
+    },
+    {
+      "title": "Gamma Regime Awareness: Range Days, Trend Days, and Whipsaw Days",
+      "url": "https://www.skylit.ai/learn/gamma-regimes",
+      "category": "academy",
+      "html": "docs/skylit/academy/gamma-regimes.html",
+      "markdown": "docs/skylit/academy/gamma-regimes.md"
+    },
+    {
+      "title": "Heatseeker Patterns: Rug, Reverse Rug, Pika Clouds, and Beach Ball",
+      "url": "https://www.skylit.ai/learn/heatseeker-patterns",
+      "category": "academy",
+      "html": "docs/skylit/academy/heatseeker-patterns.html",
+      "markdown": "docs/skylit/academy/heatseeker-patterns.md"
+    },
+    {
+      "title": "The Execution Doctrine: Tap Probability, Deflection Zones, and Entry Precision",
+      "url": "https://www.skylit.ai/learn/execution-doctrine",
+      "category": "academy",
+      "html": "docs/skylit/academy/execution-doctrine.html",
+      "markdown": "docs/skylit/academy/execution-doctrine.md"
+    },
+    {
+      "title": "Rolling Floors and Ceilings: How Dealer Repositioning Signals Trends",
+      "url": "https://www.skylit.ai/learn/rolling-floors-ceilings",
+      "category": "academy",
+      "html": "docs/skylit/academy/rolling-floors-ceilings.html",
+      "markdown": "docs/skylit/academy/rolling-floors-ceilings.md"
+    },
+    {
+      "title": "Air Pockets, Liquidity Vacuums, and Velocity Mode",
+      "url": "https://www.skylit.ai/learn/air-pockets-velocity",
+      "category": "academy",
+      "html": "docs/skylit/academy/air-pockets-velocity.html",
+      "markdown": "docs/skylit/academy/air-pockets-velocity.md"
+    },
+    {
+      "title": "Node Lifecycle: Fresh, Tested, Delivered, and Decaying Levels",
+      "url": "https://www.skylit.ai/learn/node-lifecycle",
+      "category": "academy",
+      "html": "docs/skylit/academy/node-lifecycle.html",
+      "markdown": "docs/skylit/academy/node-lifecycle.md"
+    },
+    {
+      "title": "Trinity Mode: Cross-Index Alignment with SPX, SPY, and QQQ",
+      "url": "https://www.skylit.ai/learn/trinity-mode",
+      "category": "academy",
+      "html": "docs/skylit/academy/trinity-mode.html",
+      "markdown": "docs/skylit/academy/trinity-mode.md"
+    },
+    {
+      "title": "How to Graduate From Trading Alerts to Your Own Edge",
+      "url": "https://www.skylit.ai/learn/graduate-from-trading-alerts",
+      "category": "academy",
+      "html": "docs/skylit/academy/graduate-from-trading-alerts.html",
+      "markdown": "docs/skylit/academy/graduate-from-trading-alerts.md"
+    },
+    {
+      "title": "Introduction to the Talon Chat Agent: Ask Anything, On Any Page",
+      "url": "https://www.skylit.ai/learn/intro-to-talon-chatbot-v1",
+      "category": "academy",
+      "html": "docs/skylit/academy/intro-to-talon-chatbot-v1.html",
+      "markdown": "docs/skylit/academy/intro-to-talon-chatbot-v1.md"
+    },
+    {
+      "title": "The Options Greeks: A Complete Guide for Traders",
+      "url": "https://www.skylit.ai/learn/options-greeks",
+      "category": "greeks",
+      "html": "docs/skylit/greeks/options-greeks.html",
+      "markdown": "docs/skylit/greeks/options-greeks.md"
+    },
+    {
+      "title": "Delta: The Line of Fire — How It Drives Market Flow",
+      "url": "https://www.skylit.ai/learn/delta",
+      "category": "greeks",
+      "html": "docs/skylit/greeks/delta.html",
+      "markdown": "docs/skylit/greeks/delta.md"
+    },
+    {
+      "title": "Gamma Exposure (GEX) Explained: The Market's Shock Absorber",
+      "url": "https://www.skylit.ai/learn/gamma-exposure",
+      "category": "greeks",
+      "html": "docs/skylit/greeks/gamma-exposure.html",
+      "markdown": "docs/skylit/greeks/gamma-exposure.md"
+    },
+    {
+      "title": "Vega: The Breath of the Market — Volatility Sensitivity",
+      "url": "https://www.skylit.ai/learn/vega",
+      "category": "greeks",
+      "html": "docs/skylit/greeks/vega.html",
+      "markdown": "docs/skylit/greeks/vega.md"
+    },
+    {
+      "title": "Theta Decay: The Silent Tax on Every Option",
+      "url": "https://www.skylit.ai/learn/theta",
+      "category": "greeks",
+      "html": "docs/skylit/greeks/theta.html",
+      "markdown": "docs/skylit/greeks/theta.md"
+    },
+    {
+      "title": "Vanna Exposure (VEX): The Vol–Spot Feedback Loop",
+      "url": "https://www.skylit.ai/learn/vanna-exposure",
+      "category": "greeks",
+      "html": "docs/skylit/greeks/vanna-exposure.html",
+      "markdown": "docs/skylit/greeks/vanna-exposure.md"
+    },
+    {
+      "title": "Charm: The Invisible Drift That Moves Markets",
+      "url": "https://www.skylit.ai/learn/charm",
+      "category": "greeks",
+      "html": "docs/skylit/greeks/charm.html",
+      "markdown": "docs/skylit/greeks/charm.md"
+    },
+    {
+      "title": "Vomma (Volga): The Convexity of Volatility",
+      "url": "https://www.skylit.ai/learn/vomma",
+      "category": "greeks",
+      "html": "docs/skylit/greeks/vomma.html",
+      "markdown": "docs/skylit/greeks/vomma.md"
+    },
+    {
+      "title": "Dealer Positioning: How Market Makers Move Price",
+      "url": "https://www.skylit.ai/learn/dealer-positioning",
+      "category": "heatseeker",
+      "html": "docs/skylit/heatseeker/dealer-positioning.html",
+      "markdown": "docs/skylit/heatseeker/dealer-positioning.md"
+    },
+    {
+      "title": "How to Trade with GEX: Nodes, Flip Zones & Scenarios",
+      "url": "https://www.skylit.ai/learn/gex-trading",
+      "category": "heatseeker",
+      "html": "docs/skylit/heatseeker/gex-trading.html",
+      "markdown": "docs/skylit/heatseeker/gex-trading.md"
+    },
+    {
+      "title": "How to Trade with VEX: Vanna Flows & Vol Regimes",
+      "url": "https://www.skylit.ai/learn/vex-trading",
+      "category": "heatseeker",
+      "html": "docs/skylit/heatseeker/vex-trading.html",
+      "markdown": "docs/skylit/heatseeker/vex-trading.md"
+    },
+    {
+      "title": "GEX vs VEX: When Greeks Align and When They Fight",
+      "url": "https://www.skylit.ai/learn/gex-vex-alignment",
+      "category": "heatseeker",
+      "html": "docs/skylit/heatseeker/gex-vex-alignment.html",
+      "markdown": "docs/skylit/heatseeker/gex-vex-alignment.md"
+    },
+    {
+      "title": "Negative GEX Explained: Pits, Reversals & Squeeze Setups",
+      "url": "https://www.skylit.ai/learn/negative-gex",
+      "category": "heatseeker",
+      "html": "docs/skylit/heatseeker/negative-gex.html",
+      "markdown": "docs/skylit/heatseeker/negative-gex.md"
+    },
+    {
+      "title": "Options Flow Trading: Reading Institutional Order Flow",
+      "url": "https://www.skylit.ai/learn/options-flow",
+      "category": "heatseeker",
+      "html": "docs/skylit/heatseeker/options-flow.html",
+      "markdown": "docs/skylit/heatseeker/options-flow.md"
+    },
+    {
+      "title": "Support & Resistance from GEX: King Nodes & Air Pockets",
+      "url": "https://www.skylit.ai/learn/support-resistance-gex",
+      "category": "heatseeker",
+      "html": "docs/skylit/heatseeker/support-resistance-gex.html",
+      "markdown": "docs/skylit/heatseeker/support-resistance-gex.md"
+    },
+    {
+      "title": "Introduction to Flowseeker: Real-Time Institutional Flow",
+      "url": "https://www.skylit.ai/learn/intro-to-flowseeker",
+      "category": "flowseeker",
+      "html": "docs/skylit/flowseeker/intro-to-flowseeker.html",
+      "markdown": "docs/skylit/flowseeker/intro-to-flowseeker.md"
+    },
+    {
+      "title": "Navigating Flowseeker",
+      "url": "https://www.skylit.ai/learn/navigating-flowseeker",
+      "category": "flowseeker",
+      "html": "docs/skylit/flowseeker/navigating-flowseeker.html",
+      "markdown": "docs/skylit/flowseeker/navigating-flowseeker.md"
+    },
+    {
+      "title": "Analyzing a Print with the Chart Modal",
+      "url": "https://www.skylit.ai/learn/analyzing-print-chart-modal",
+      "category": "flowseeker",
+      "html": "docs/skylit/flowseeker/analyzing-print-chart-modal.html",
+      "markdown": "docs/skylit/flowseeker/analyzing-print-chart-modal.md"
+    },
+    {
+      "title": "Flow Highlighting: Color-Coding the Prints That Matter",
+      "url": "https://www.skylit.ai/learn/flow-highlighting",
+      "category": "flowseeker",
+      "html": "docs/skylit/flowseeker/flow-highlighting.html",
+      "markdown": "docs/skylit/flowseeker/flow-highlighting.md"
+    },
+    {
+      "title": "Reading Flow on Atlas: How the Bars Work, Every Setting Explained, and Why There's No 'Best Configuration'",
+      "url": "https://www.skylit.ai/learn/reading-flow-on-atlas",
+      "category": "flowseeker",
+      "html": "docs/skylit/flowseeker/reading-flow-on-atlas.html",
+      "markdown": "docs/skylit/flowseeker/reading-flow-on-atlas.md"
+    },
+    {
+      "title": "Reading Dark Pool Prints: The Tape and the Levels",
+      "url": "https://www.skylit.ai/learn/reading-dark-pool-prints",
+      "category": "flowseeker",
+      "html": "docs/skylit/flowseeker/reading-dark-pool-prints.html",
+      "markdown": "docs/skylit/flowseeker/reading-dark-pool-prints.md"
+    },
+    {
+      "title": "Best GEX Tools for Options Traders in 2026",
+      "url": "https://www.skylit.ai/learn/best-gex-tools",
+      "category": "tools",
+      "html": "docs/skylit/tools/best-gex-tools.html",
+      "markdown": "docs/skylit/tools/best-gex-tools.md"
+    },
+    {
+      "title": "Best Options Flow Tools, Scanners & Platforms (2026)",
+      "url": "https://www.skylit.ai/learn/best-options-flow-tools",
+      "category": "tools",
+      "html": "docs/skylit/tools/best-options-flow-tools.html",
+      "markdown": "docs/skylit/tools/best-options-flow-tools.md"
+    },
+    {
+      "title": "Best Vanna Exposure (VEX) Tools for Trading",
+      "url": "https://www.skylit.ai/learn/best-vanna-tools",
+      "category": "tools",
+      "html": "docs/skylit/tools/best-vanna-tools.html",
+      "markdown": "docs/skylit/tools/best-vanna-tools.md"
+    },
+    {
+      "title": "What an AI Trading Terminal Does (and Doesn't Do)",
+      "url": "https://www.skylit.ai/learn/ai-trading-terminal",
+      "category": "tools",
+      "html": "docs/skylit/tools/ai-trading-terminal.html",
+      "markdown": "docs/skylit/tools/ai-trading-terminal.md"
+    },
+    {
+      "title": "Why Does Skylit Cost More? Is Skylit a Scam or Worth It?",
+      "url": "https://www.skylit.ai/learn/why-skylit-costs-more",
+      "category": "tools",
+      "html": "docs/skylit/tools/why-skylit-costs-more.html",
+      "markdown": "docs/skylit/tools/why-skylit-costs-more.md"
+    },
+    {
+      "title": "What Is Skylit? Is It Legit? Products, Plans and Policies",
+      "url": "https://www.skylit.ai/learn/what-is-skylit",
+      "category": "tools",
+      "html": "docs/skylit/tools/what-is-skylit.html",
+      "markdown": "docs/skylit/tools/what-is-skylit.md"
+    },
+    {
+      "title": "Best Unusual Whales Alternatives (2026): Flow Plus Dealer Positioning",
+      "url": "https://www.skylit.ai/learn/unusual-whales-alternatives",
+      "category": "tools",
+      "html": "docs/skylit/tools/unusual-whales-alternatives.html",
+      "markdown": "docs/skylit/tools/unusual-whales-alternatives.md"
+    },
+    {
+      "title": "Best Live Trading Rooms for Options Day Traders (2026)",
+      "url": "https://www.skylit.ai/learn/options-day-trading-live-rooms",
+      "category": "tools",
+      "html": "docs/skylit/tools/options-day-trading-live-rooms.html",
+      "markdown": "docs/skylit/tools/options-day-trading-live-rooms.md"
+    },
+    {
+      "title": "Best GEX Tools for 0DTE SPX Trading (2026)",
+      "url": "https://www.skylit.ai/learn/best-gex-tools-0dte-spx",
+      "category": "tools",
+      "html": "docs/skylit/tools/best-gex-tools-0dte-spx.html",
+      "markdown": "docs/skylit/tools/best-gex-tools-0dte-spx.md"
+    },
+    {
+      "title": "Best Options Data APIs and MCP Servers for AI Trading Agents (2026)",
+      "url": "https://www.skylit.ai/learn/options-data-api-mcp-ai-agents",
+      "category": "tools",
+      "html": "docs/skylit/tools/options-data-api-mcp-ai-agents.html",
+      "markdown": "docs/skylit/tools/options-data-api-mcp-ai-agents.md"
+    },
+    {
+      "title": "Best SpotGamma Alternatives (2026): Dealer Positioning Tools Compared",
+      "url": "https://www.skylit.ai/learn/spotgamma-alternatives",
+      "category": "tools",
+      "html": "docs/skylit/tools/spotgamma-alternatives.html",
+      "markdown": "docs/skylit/tools/spotgamma-alternatives.md"
+    },
+    {
+      "title": "How accurate is Tempest? Two years of volatility readings, checked",
+      "url": "https://www.skylit.ai/learn/tempest-volatility-accuracy",
+      "category": "tools",
+      "html": "docs/skylit/tools/tempest-volatility-accuracy.html",
+      "markdown": "docs/skylit/tools/tempest-volatility-accuracy.md"
+    }
+  ],
+  "failures": []
+}
