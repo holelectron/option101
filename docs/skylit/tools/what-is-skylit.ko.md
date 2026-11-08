@@ -1,128 +1,129 @@
-<!-- Machine translation; review against original. Source: https://www.skylit.ai/learn/what-is-skylit -->
+<!-- Reviewed Korean translation · Source: https://www.skylit.ai/learn/what-is-skylit -->
 
-> **번역 안내:** 이 문서는 자동 번역 초안입니다. 수치·수식·거래 판단은 [영어 원문](what-is-skylit.md)을 확인하세요.
+# Skylit이란? 신뢰할 만한 서비스일까? 제품·요금제·정책 안내
 
-# Skylit은 무엇입니까? 그것은 합법적입니까? 제품, 계획 및 정책
+> **번역 안내:** 이 글은 Skylit이 자사 제품과 정책을 설명하는 원문을 번역한 것입니다. **2026년 9월 기준 리뷰 평점**과 출시 예정 기능·요금제 등은 변경될 수 있으므로 직접 확인해야 합니다. [영어 원문](what-is-skylit.md)
 
-# Skylit은 무엇입니까? 그것은 합법적입니까? 제품, 계획 및 정책
+**Tools · 원문 약 8분**
 
-도구·8 분 읽기
+**Skylit(skylit.ai)**은 스스로 투자 결정을 내리는 트레이더를 위한 시장 정보 플랫폼입니다. 딜러 포지셔닝을 보여주는 **Heatseeker**, 옵션 거래 흐름을 보여주는 **Flowseeker**, 두 정보를 차트에 겹치는 **Atlas**, AI 분석 에이전트 **Talon**, 모의거래 **Nexus**, 매일 진행하는 **Live Stages**, 교육용 **Skylit Academy**를 하나의 웹 앱에 묶었습니다. 회사는 OPRA·NASDAQ·CBOE에서 시장 데이터를 직접 라이선스받는 유료 구독 서비스라고 밝힙니다. 원문은 Trustpilot과 Whop에서 모두 **4.9점(2026년 9월 기준)**이라고 소개하며, 전 요금제에 전담 Trader Success 팀이 있다고 설명합니다. Skylit은 외부 매매 신호를 보내지 않고 법적으로 필요한 경우 외에는 환불하지 않는다고 명시합니다. 요금제는 **Community·Initiate·Pro**이며 현재 가격은 [요금 안내](https://www.skylit.ai/#pricing)에서 확인할 수 있습니다.
 
-heatseekeroptions – 품질 협력 업체 중국에서
+## Skylit은 신뢰할 만한가?
 
-**Skylit (skylit.ai)는 자체 간접 상인을위한 시장 인지도 플랫폼입니다. 딜러가 위치 한 곳 (Heatseeker)를 보여주는 하나의 웹 앱, 어떤 옵션 상인 (Flowseeker)를하고 AI 에이전트 (Talon), 종이 거래 (Nexus), 일일 라이브 스테이지 및 Skylit Academy와 함께 라이브 차트 (Atlas)에 둘 다 넣어.** 합법적 인 유료 구독 서비스입니다 : 시장 데이터는 OPRA, NASDAQ 및 CBOE에서 직접 라이센스되며 Skylit은 Trustpilot 및 Whop (9 월 2026)에 4.9 등급이며 모든 계획에는 전용 트레이더 성공 팀이 포함됩니다. Skylit는 무역 경고 또는 신호를 보내지 않으며 환불을 제공하지 않으며 현재 가격과 함께 3 가지 계획 (Community, Initiate 및 Pro)이 있습니다. [가격표](https://www.skylit.ai/#pricing).
+구매자가 직접 확인할 만한 항목을 원문은 다음과 같이 제시합니다.
 
-## Skylit Legit은 무엇입니까?
+- **라이선스 시장 데이터:** OPRA·NASDAQ·CBOE 데이터 라이선스를 보유한다고 설명합니다. **딜러 포지셔닝은 거래소가 직접 보고하는 값이 아니라 Skylit이 시장 데이터로 추정한 것**입니다.
+- **외부 리뷰:** 원문 기준 2026년 9월 [Trustpilot](https://www.trustpilot.com/review/skylit.ai) **4.9점**, [Whop](https://whop.com/heatseeker) **4.9점**입니다. 현재 평점과 후기의 내용은 직접 확인하세요.
+- **전체 요금제의 지원팀:** Discord, 앱 내 지원, [support@skylit.ai](mailto:support@skylit.ai)를 통한 전담 Trader Success 지원을 소개합니다. **Pro**에는 1:1 Success Sessions가 추가됩니다.
+- **매일 공개되는 라이브 세션:** 앱 내 **Live Stages**에서 진행자가 화면을 공유하며 시장, 도구, 분석 절차를 설명한다고 합니다.
+- **서비스 성격의 명시:** 투자 자문이 아니라 교육·분석 도구이고 회사가 매매 신호를 발송하지 않는다고 밝힙니다. 사용자가 개별 가격 수준과 옵션 흐름에 직접 설정한 알림은 별개입니다.
+- **결제·취소 정책:** **법률상 필요한 경우 외에는 환불하지 않는다**고 명시합니다. 유료 요금제에 별도의 무료 체험은 없지만 Live Stages는 하루 **60분 무료** 이용이 가능하다고 설명합니다. 구독은 자체 결제 화면 또는 Whop에서 취소할 수 있으며 이미 결제한 기간까지 이용할 수 있다고 합니다. 중복 결제나 해지 이후의 잘못된 청구는 [support@skylit.ai](mailto:support@skylit.ai)로 연락하면 수정한다고 안내합니다. 자동 갱신 조건은 [서비스 약관 제15조](https://www.skylit.ai/terms)를 확인해야 합니다.
 
-이 사실은 조심 구매자는 보통 한 곳에서 검사합니다.
+원문은 Skylit과 Heatseeker의 창립자를 **Glitch**라고 소개합니다.
 
-- **인증된 데이터.** 시장 데이터는 OPRA, NASDAQ 및 CBOE에서 직접 라이센스됩니다. Dealer Positioning은 Skylit이 데이터에서 파생되어 교환에 의해보고되지 않습니다.
-- **자주 묻는 질문** Skylit 은 평가 4.9 에 [트러스트](https://www.trustpilot.com/review/skylit.ai) 그리고 4.9 에 [뚱 베어](https://whop.com/heatseeker) (9월 2026). 리뷰를 읽으십시오 오히려 우리의 단어를 복용하는 것보다.
-- **모든 계획에 대한 실제 사람들.** 전용 트레이더 성공 팀은 Skylit Discord의 도구를 사용하여 앱 지원 및 [이메일: support@skylit.ai](mailto:support@skylit.ai). Pro는 1:1 성공 세션을 추가합니다.
-- **매일, 오픈.** Skylit는 앱 내부의 일일 라이브 스테이지를 스트리밍하고, 호스트는 화면을 공유하고 시장, 도구 및 프로세스를 통해 대화합니다.
-- **무엇에 대해 분명.** Skylit은 교육 자료 및 분석 도구이며 금융 조언이 아닙니다. 그것은 무역 경고 또는 신호를 보낼 수 없습니다; 레벨에 설정된 경고와 흐름은 당신의 자신의.
-- **일반 정책.** 모든 판매는 최종적입니다 : Skylit은 법이 필요한지 제외하고 환불을 제공하지 않습니다. 유료 플랜에는 예심이 없지만 하루 60 분 동안 라이브 스테이지에서 무료로 시작할 수 있습니다. 청구서 페이지에서 언제든지 취소 할 수 있습니다, 또는 누가 계정을 통해 가입 한 경우; 당신은 지불 한 기간의 끝까지 액세스 유지하고 다시 청구되지 않습니다. 취소 된 후 중복 청구 또는 청구와 같은 청구 실수는 항상 수정됩니다. 이메일 [이메일: support@skylit.ai](mailto:support@skylit.ai). 구독은 취소하지 않는 한 자동 갱신 할 수 있습니다, 섹션에서 설정 15 의 [이용 약관](https://www.skylit.ai/terms).
+> ⚠️ **주의**  
+> 판매가 최종적이며 원칙적으로 환불이 불가하다고 명시하므로 구매 전 상품 내용을 확인해야 합니다. [무료 Live Stages](https://www.skylit.ai/#pricing), [공개 가이드](https://www.skylit.ai/docs/guides/overview), Learn 문서를 읽고 요금제와 최신 약관을 확인하세요. 실제 환불 권리는 거주지 법률에 따라 달라질 수 있습니다.
 
-Skylit의 설립자 인 Glitch는 Heatseeker를 설립했습니다.
+## Skylit에 포함된 제품
 
-⚠️
+### Heatseeker: 딜러 포지셔닝
 
-모든 판매는 최종적으로, 그래서 당신이 먼저 사는 것을 알고 있습니다. 무료 라이브 스테이지 오디오로 시작, 현장 가이드를 읽어 [skylit.ai / 문서](https://www.skylit.ai/docs/guides/overview) 이 학습 섹션의 기사, 그리고 계획 비교 [가격표](https://www.skylit.ai/#pricing) 가입하기 전에.
+[Heatseeker](https://www.skylit.ai/modules/heatseeker)는 티커 하나에 대해 **행사가(행)와 만기(열)**별 딜러 익스포저를 보여줍니다. 같은 보드에서 **GEX(순감마 익스포저)**와 **VEX(순바나 익스포저)**를 전환할 수 있습니다. 원문은 GEX를 당일 주요 가격대 분석에, VEX를 더 긴 흐름이나 변동성 급등일의 분석에 활용한다고 설명합니다.
 
-## Skylit의 장점
+보드의 별표는 **GEX 절댓값이 최대인 킹 노드**를 표시합니다. 양수일 수도 음수일 수도 있습니다. **게이트키퍼**는 현물 가격과 킹 노드 사이의 중요한 노드입니다. **Velocity**는 노드 증가·감소 속도, **Trinity Mode**는 기본적으로 **SPXW·SPY·QQQ**를 나란히 보여주며 상품을 변경할 수도 있습니다. **Replay**는 **1년 이상 과거 기록을 1분 단위**로 재생한다고 합니다. Heatseeker는 딜러 포지셔닝의 추정치를 보여주는 도구이지, 가격 방향 예측기가 아닙니다.
 
-### Heatseeker: 딜러 위치
+**지원 티커:** Pro는 **5,000개 이상**, Initiate는 **63개 지수·ETF(SPX·SPY·QQQ·IWM·DIA·VIX·섹터·거시 ETF)**입니다. Community에서는 Discord의 Heatseeker Bot을 통해 지수 맵을 볼 수 있다고 합니다.
 
-[히트 체커](https://www.skylit.ai/modules/heatseeker) 모든 파업 (rows) 및 모든 만료 (columns)에 대한 딜러 노출을 보여줍니다. **사이트맵** (net gamma 노출) 및 **VEX 소개** (net vanna 노출)은 같은 보드에 있으며 GEX / VEX 스위치와 함께 전환합니다. GEX는 오늘날의 수준에 사용됩니다. 더 긴 전망을위한 VEX와 휘발성 스파이크 일 동안.
+### Flowseeker: 옵션 거래 흐름
 
-보드 별 **킹 노드**, 가장 높은 절대 GEX, 긍정적 또는 부정적인 노드. **관련 링크** 가격과 왕 사이에 눈에 띄는 노드입니다. **언어 선택** 노드가 성장하거나 수축하는 것을 보여줍니다. **삼중 모드** SPXW, SPY 및 QQQ 측을 기본으로 표시합니다 (당신은 악기를 변경할 수 있습니다), **뚱 베어** 지난 세션을 통해 1분의 1년 이상의 역사가 있습니다. Heatseeker는 딜러가 위치 한 곳을 보여줍니다. 방향을 예측하지 않습니다.
-
-**증권 시세 표시기:** Heatseeker는 프로에 5,000 + tickers를 다룹니다. 시작 범위 63 인덱스 및 ETF 기호 (SPX, SPY, QQ, IWM, DIA, VIX, 부문 및 매크로 ETF). 커뮤니티 회원은 Skylit Discord의 Heatseeker Bot을 통해 인덱스 맵을 볼 수 있습니다.
-
-### Flowseeker : 옵션 흐름
-
-[회사 소개](https://www.skylit.ai/modules/flowseeker) 모든 옵션 인쇄를 합쳐, 프리미엄, 열린 관심에 대한 그것의 크기, 다음 아침의 열린 관심에 변화, 및 청소, 다 다리와 크로스 플래그. 그것은 또한 오프 교환 주식 인쇄, 시장 넓은 야윈을 위한 교류 Compass를 위한 어두운 급식이, 회사 사건 (earnings, 내부 filings 및 의회 disclosures) 및 교류 경고 있습니다. Flowseeker는 모든 계획에 포함되어 있습니다.
+[Flowseeker](https://www.skylit.ai/modules/flowseeker)는 옵션 체결 가격 위치, 프리미엄·수량, OI 대비 거래 규모, 다음 날 OI 변화, 스윕·다중 레그·크로스 분류 등을 보여줍니다. **장외 주식 체결용 Dark Feed**, 시장 전체의 방향성 추정을 보여주는 **Flow Compass**, **Company Events(실적·내부자 공시·의회 공시)**, **Flow Alerts**도 포함된다고 설명합니다. 전 요금제에 제공한다고 합니다.
 
 ### Atlas: 차트
 
-[지도 보기](https://www.skylit.ai/modules/atlas) 딜러 수준의 라이브 차트, 흐름 및 어둠의 풀입니다. 차트에서 GEX, VEX 또는 GEX+VEX 레벨을 그릴 수 있으며 세션을 재생합니다. Atlas는 Pro와 함께, 지수와 미래에 대한 Initiate.
+[Atlas](https://www.skylit.ai/modules/atlas)는 딜러 가격대·옵션 플로우·다크풀 정보를 결합한 실시간 차트입니다. **GEX / VEX / GEX+VEX** 수준을 표시하고 과거 세션을 재생할 수 있습니다. 원문 기준 **Pro 전체**, **Initiate 지수·선물**에 포함됩니다.
 
-### Talon : AI 에이전트 (프로)
+### Talon: AI 에이전트(Pro)
 
-[인기 카테고리](https://www.skylit.ai/modules/talon) Skylit AI 에이전트입니다. 차트 또는지도에 대해 문의하여 라이브 스카이라이트 데이터의 답변 : GEX / VEX지도, 옵션 흐름, 어두운 풀 인쇄, 회사 이벤트 및 뉴스. 그것은 레벨을 놓고, 유효성 및 위험 상승, 그리고 그것은 당신이 구입하거나 판매하는 것을 말할 수 없습니다. Talon은 Pro와 함께 제공됩니다.
+[Talon](https://www.skylit.ai/modules/talon)은 현재 보고 있는 차트나 맵에 관한 질문에 실시간 Skylit 데이터를 바탕으로 답한다고 소개합니다. GEX/VEX, 옵션 플로우, 다크풀 체결, 기업 이벤트, 뉴스 등을 사용해 주요 가격대·무효화 지점·손익비를 정리하며 **매수·매도 결정을 대신하지 않는다**고 명시합니다. Pro에 포함됩니다.
 
-### Nexus, 라이브 스테이지, 아카데미 및 Aegis
+### Nexus, Live Stages, Academy, Aegis
 
-- **[넥서스](https://www.skylit.ai/modules/nexus) (베타):** 거래 리뷰 및 리더 보드와 함께 $100,000 종이 지갑의 옵션 종이 거래. 모든 계획.
-- **라이브 스테이지:** 앱 내의 일일 라이브 룸. 이름 \* [옵션 일 상인을위한 라이브 거래 룸](https://www.skylit.ai/learn/options-day-trading-live-rooms).
-- **Skylit 아카데미:** 앱의 단계별 수업. 모든 계획.
-- **이름:** 차트 옆에 측면 패널, 모든 계획에 라이브 스테이지와 프로의 Talon 탭.
+- **[Nexus](https://www.skylit.ai/modules/nexus) (베타):** **100,000달러 모의 계좌**에서 옵션 모의거래, 거래 복기, 리더보드를 제공하며 모든 요금제에 포함됩니다.
+- **Live Stages:** 앱 안에서 매일 열리는 라이브 세션입니다. [옵션 데이트레이더 라이브 룸 안내](https://www.skylit.ai/learn/options-day-trading-live-rooms) 참고.
+- **Skylit Academy:** 단계별 교육 콘텐츠이며 전 요금제 제공으로 소개됩니다.
+- **Aegis:** 차트 옆 사이드 패널입니다. Live Stages는 전 요금제, Talon 탭은 Pro에 제공된다고 합니다.
 
-## 제품 상태
+## 제품 개발 상태
 
-| 제품정보 | 주요연혁 | 계획 |
+| 제품 | 원문 기준 상태 | 제공 요금제 |
 | --- | --- | --- |
-| Heatseeker, Flowseeker, Atlas, Talon, 라이브 스테이지, 아카데미 | 지원하다 | 아래 플랜 테이블보기 |
-| Nexus (서류 거래, 무역 리뷰, 리더 보드) | 베타 베타 | 각 플랜 |
-| [제품 정보](https://www.skylit.ai/modules/tempest) (단일 휘발성 및 예상 수명 범위, 주식) | 베타 베타 | 지원하다 |
-| API 및 MCP (자신 도구 및 AI 조수에 대한 Skylit 데이터) | 베타 베타 | — |
-| Aethos (Skylit 내부 주문 실행 순서 흐름, DOM 및 레벨 3 깊이) | Q4에서 오는 | 시작 및 프로 |
-| Arc (최근 가격 경로 및 Atlas 차트에 범위) | Q4에서 오는 | 지원하다 |
+| Heatseeker, Flowseeker, Atlas, Talon, Live Stages, Academy | **제공 중** | 아래 요금제 참조 |
+| Nexus(모의거래·복기·리더보드) | **베타** | 전 요금제 |
+| [Tempest](https://www.skylit.ai/modules/tempest)(종목별 IV·예상 변동 범위) | **베타** | Pro |
+| API 및 MCP(외부 도구·AI에 Skylit 데이터 연결) | **베타** | 원문 미기재 |
+| Aethos(프롭펌 계정을 통한 터미널 내 선물 주문, 주문 흐름·DOM·Level 3) | **4분기 출시 예정** | Initiate·Pro |
+| Arc(Atlas 차트의 예상 가격 경로·범위) | **4분기 출시 예정** | Pro |
 
-## 계획 및 가격
+**주의:** 출시 예정 시기와 베타 상태는 원문 작성 당시의 정보입니다. 현재 서비스 상태를 확인하지 않은 채 ‘이미 출시됨’으로 바꾸지 않았습니다.
 
-| (주) | 다음을 포함합니다 |
+## 요금제와 가격
+
+| 요금제 | 원문 기준 제공 범위 |
 | --- | --- |
-| - 연혁 | Skylit Discord, Discord, Flowseeker, Nexus, Skylit Academy, Aegis, Live Stages, Trader Success team의 Heatseeker Bot 인덱스 맵 |
-| 지원하다 | 커뮤니티의 모든 것, 63 지수 및 ETF 기호에 대한 웹 응용 프로그램에서 Heatseeker 플러스 (SPX, SPY, QQ, IWM, DIA, VIX, 부문 및 매크로 ETF), 그리고 인덱스 및 미래를위한 Atlas 차트 |
-| 지원하다 | Initiate의 모든 것, 과 Heatseeker 5,000+ tickers, Atlas for everything, Talon, Tempest and 1:1 Success Sessions |
+| **Community** | Skylit Discord, Heatseeker Bot 지수 맵, Flowseeker, Nexus, Academy, Aegis, Live Stages, Trader Success 팀 |
+| **Initiate** | Community 전체 + 웹 Heatseeker **63개 지수·ETF**, 지수·선물용 Atlas |
+| **Pro** | Initiate 전체 + **5,000개 이상 티커** Heatseeker, 전체 Atlas, Talon, Tempest, 1:1 Success Sessions |
 
-각 플랜의 월간 및 연간 가격은 [가격표](https://www.skylit.ai/#pricing)항상 현재 번호를 보여줍니다. 계획을 전환할 때, 현재의 계획에서 사용되지 않는 시간은 새로운 것에 크레딧으로 평가되고 적용됩니다.
+월간 및 연간 가격은 [공식 요금 페이지](https://www.skylit.ai/#pricing)에서 현재 숫자를 확인하세요. 원문은 요금제를 변경하면 기존 요금제의 미사용 기간을 비례 계산해 새로운 요금제의 크레딧으로 반영한다고 설명합니다.
 
-## 당신이 그것을 사용할 수있는 곳
+## 이용 가능한 기기와 시장
 
-Skylit은 app.skylit.ai의 브라우저에서 실행되며 완전히 반응합니다. 웹 앱으로 휴대 전화의 홈 화면에 설치할 수 있으며 Skylit 데스크탑은 Apple Silicon Macs 및 Windows 10/11 PC 용 베타입니다. Skylit은 재고, 선물 및 옵션에 사용됩니다. Atlas와 Talon은 옵션 별이 아니며 많은 회원이 Heatseeker와 Flowseeker 수준을 색인 선물 또는 주식에 대한 상황에 따라 읽습니다.
+Skylit은 **app.skylit.ai** 브라우저에서 실행되며 반응형 웹 UI를 제공합니다. 휴대전화 홈 화면에 웹 앱으로 설치할 수 있고, 원문은 **Apple Silicon Mac**과 **Windows 10/11**용 Skylit Desktop이 베타라고 안내합니다.
 
-Skylit Terminal에서 확인하기
+주식·선물·옵션에 활용할 수 있습니다. Atlas와 Talon은 옵션 전용이 아니며, Heatseeker·Flowseeker의 가격대를 지수 선물과 주식 거래의 참고 정보로 이용하는 회원도 있다고 설명합니다.
 
-Heatseeker, Flowseeker, Nexus, Live Stages and Academy in one web app, 라이센스 OPRA, NASDAQ 및 CBOE 데이터.
+### Skylit Terminal에서 확인하기
 
-[Skylit 맨끝을 시험하십시오](https://app.skylit.ai/?utm_source=skylit_landing&utm_medium=website&sl_relay=1)
+원문은 Heatseeker, Flowseeker, Nexus, Live Stages, Academy가 하나의 웹 앱에 통합되고 OPRA·NASDAQ·CBOE 시장 데이터를 사용한다고 안내합니다.
 
-*교육 자료, 금융 조언. 아무것도 여기에 구입하거나 모든 보안을 판매하는 권장 사항입니다. 옵션은 중요한 위험과 모든 투자자에게 적합하지 않습니다.*
+[Skylit Terminal 열기](https://app.skylit.ai/?utm_source=skylit_landing&utm_medium=website&sl_relay=1)
+
+*교육용 자료일 뿐 금융 자문이나 특정 증권의 매수·매도 권유가 아닙니다. 옵션에는 큰 위험이 있으며 모든 투자자에게 적합하지 않습니다.*
 
 ## 자주 묻는 질문
 
-### Skylit은 무엇입니까?
+### Skylit이란 무엇인가요?
 
-Skylit (skylit.ai)는 자체 지향 상인을위한 시장 인지도 웹 앱입니다. Heatseeker는 모든 파업 및 만료에 딜러 위치 (GEX 및 VEX)를 보여줍니다, Flowseeker 스트림 라이브 옵션 흐름, Atlas는 차트에 두 넣어, Talon은 Skylit AI 에이전트, Nexus는 종이 거래입니다. 각 플랜에는 일일 라이브 스테이지, Skylit Academy 및 Trader Success 팀이 포함됩니다.
+스스로 거래를 판단하는 투자자를 위한 시장 정보 웹 앱입니다. Heatseeker는 행사가·만기별 딜러 GEX/VEX, Flowseeker는 옵션 체결 흐름, Atlas는 둘을 겹친 차트, Talon은 AI 분석, Nexus는 모의거래를 담당합니다. 원문은 모든 요금제에 Live Stages, Academy, Trader Success 지원을 포함한다고 설명합니다.
 
-### Skylit 법률은?
+### Skylit은 믿을 만한 서비스인가요?
 
-예. Skylit은 OPRA, NASDAQ 및 CBOE에서 시장 데이터를 직접 라이센스하는 유료 구독 서비스이며, Trustpilot 및 Whop (9 월 2026)에서 4.9 등급을 받았습니다. 모든 계획에는 Skylit Discord의 전용 트레이더 성공 팀이 포함되며, 인앱 지원을 통해 [이메일: support@skylit.ai](mailto:support@skylit.ai). Skylit는 교육 자료 및 분석 도구이며 금융 조언이 아니며 무역 경고 또는 신호를 보내지 않습니다.
+원문은 OPRA·NASDAQ·CBOE 데이터 라이선스, **2026년 9월 기준 Trustpilot·Whop 4.9점**, Discord·앱·이메일 지원, 투자 신호나 수익 보장 미제공 등을 근거로 제시합니다. 다만 **이 내용은 회사의 자기소개**로 현재 평점·약관·서비스 상태를 독립적으로 확인하는 것이 좋습니다.
 
-### Skylit 덮개는 얼마입니까?
+### 몇 개 티커를 지원하나요?
 
-Heatseeker는 프로 계획에 5,000 + tickers를 다룹니다. 시작은 63 지수와 ETF 기호 (SPX, SPY, QQ, IWM, DIA, VIX, 섹터 및 매크로 ETF), 및 커뮤니티 회원은 Skylit Discord의 Heatseeker Bot을 통해 인덱스 맵을 볼 수 있습니다. Flowseeker는 모든 계획에 포함되어 있습니다.
+원문 기준 Heatseeker **Pro 5,000개 이상**, **Initiate 63개 지수·ETF**, Community는 Discord Heatseeker Bot의 지수 맵이 제공된다고 합니다. Flowseeker는 전 요금제에 포함됩니다.
 
-### Skylit 비용은 얼마입니까?
+### 비용은 얼마인가요?
 
-Skylit에는 3개의 계획이 있습니다: 공동체, 시작 및 직업, 각 청구된 매달, 매 3 6 달, 또는 매년. 현재 가격은 skylit.ai/#pricing의 가격 단면도에, 항상 살아있는 수를 보여줍니다. 60 분 동안 라이브 스테이지에서 무료로 시작할 수 있습니다.
+**Community·Initiate·Pro**의 세 요금제이며 월간·3개월·6개월·연간 결제를 안내합니다. [공식 가격](https://www.skylit.ai/#pricing)이 수시로 달라질 수 있으므로 원문에 없는 금액을 임의로 추가하지 않았습니다. Live Stages는 하루 **60분 무료** 이용 가능하다고 합니다.
 
-### Skylit는 환불합니까?
+### 환불이 가능한가요?
 
-모든 판매는 최종적입니다. Skylit의 독점적 인 실시간 인텔리전스에 대한 전체 액세스가 결합 된 순간, 그래서 우리는 법이 그것을 필요로하는 경우 환불을 제공하지 않습니다. 아직은? Live Stages에서 무료로 시작하면 월간 계획을 선택하고 계정에서 언제든지 취소하십시오. 지불 한 기간이 끝날 때까지 액세스 할 수 있으며 다시 청구되지 않습니다. 취소 된 후 중복 청구 또는 청구와 같은 청구 실수는 항상 수정됩니다. 이메일 [이메일: support@skylit.ai](mailto:support@skylit.ai).
+회사는 **법률상 요구되는 경우 외에는 환불하지 않는다**고 밝힙니다. 무료 Live Stages를 체험하거나 월간 요금제로 시작하고 원할 때 구독을 취소할 수 있다고 설명합니다. 결제 기간 끝까지 이용할 수 있으며, 잘못 청구된 결제는 [support@skylit.ai](mailto:support@skylit.ai)로 연락하도록 안내합니다. 현지 소비자보호법은 별도로 적용될 수 있습니다.
 
-### Skylit 거래 신호를 제공합니까?
+### Skylit이 매매 신호를 주나요?
 
-이름 \* Skylit은 데이터, 도구 및 교육이 자신의보기를 형성합니다. 회원은 때때로 분석, 아이디어 및 교육을 공유하지만 Skylit은 무역 경고 또는 신호를 보내지 않습니다. 레벨과 흐름에 설정된 경고는 당신의 자신입니다.
+원문에 따르면 **회사 차원의 매매 신호는 제공하지 않습니다.** 이용자가 직접 판단하도록 데이터·도구·교육을 제공하며, 다른 회원이 공유하는 시장 아이디어나 교육 내용은 공식 거래 지시가 아닙니다. 이용자가 가격 수준·옵션 플로우에 설정한 알림은 직접 만든 알림입니다.
 
-### 어떤 Skylit 제품은 베타 또는 곧 출시됩니까?
+### 어떤 제품이 베타이거나 출시 예정인가요?
 
-Nexus (paper trading, trade review and Leaderboard)는 모든 계획에 베타에 있습니다. Tempest, 휘발성 스위트는 프로에 있습니다. API 및 MCP는 베타에 있습니다. Skylit 내부의 Aethos, 미래 주문 실행, 시작 및 프로에 대한 Q4에 오는, 및 아크는 Q4에 온다.
+원문 작성 시점 기준 **Nexus·Tempest·API/MCP는 베타**, **Aethos는 4분기 Initiate·Pro**, **Arc는 4분기 Pro** 출시 예정으로 기재됐습니다. 현재 개발·출시 상태는 공식 사이트에서 다시 확인해야 합니다.
 
-### Smarter 거래 시작
+### 더 알아보기
 
-Skylit의 딜러 노출 도구를 사용하여 이러한 개념을보십시오.
+[이용 안내](https://www.skylit.ai/#pricing) · [Heatseeker 체험](https://www.skylit.ai/#pricing)
 
-[접속하다](https://www.skylit.ai/#pricing)[Heatseeker 사용](https://www.skylit.ai/#pricing)
+---
+
+> **검토 메모:** 서비스의 합법성, 고객 평판, 데이터 라이선스, 요금제, 출시 예정일은 **원문에 서술된 회사의 주장**입니다. 번역을 통해 사실 검증이나 기능 보증을 한 것은 아닙니다.
