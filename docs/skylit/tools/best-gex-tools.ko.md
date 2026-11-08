@@ -136,3 +136,6 @@ Skylit은 익스포저 수치가 단순 거래소 원시 데이터가 아니라 
 ---
 
 > **검토 메모:** 딜러 GEX·VEX는 포지션 방향을 가정한 **모델 추정치**입니다. 노드의 크기·부호만으로 실제 매매 방향이나 가격 반응을 단정해서는 안 됩니다. 경쟁사 기능과 Skylit의 독점성·평판에 관한 설명은 원문의 비교·마케팅 정보입니다.
+
+
+> 원문 관련 심화 자료: [GEX 트레이딩](https://www.skylit.ai/learn/gex-trading) · [딜러 포지셔닝](https://www.skylit.ai/learn/dealer-positioning)
