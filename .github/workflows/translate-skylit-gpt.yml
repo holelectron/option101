@@ -1,10 +1,6 @@
 name: Improve Korean Translations (GPT)
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - '.github/workflows/translate-skylit-gpt.yml'
   workflow_dispatch:
     inputs:
       limit:
