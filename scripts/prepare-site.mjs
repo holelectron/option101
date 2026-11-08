@@ -15,7 +15,16 @@ for (const a of manifest.articles) {
   const hasTranslation = fs.existsSync(translatedPath)
   if (hasTranslation) {
     // The original and generated files stay separate: originals remain intact.
-    const text = fs.readFileSync(translatedPath, 'utf-8')
+    let text = fs.readFileSync(translatedPath, 'utf-8')
+    // Archived Korean source links its English counterpart by relative filename.
+    // The generated /ko/ page must instead target the English /skylit/ route.
+    const englishRoute = '/' + a.markdown.replace(/^docs\//, '').replace(/\.md$/, '')
+    text = text.replace(/\]\(([^)]+\.md)\)/g, (match, target) => {
+      if (target === path.basename(englishPath)) {
+        return '](' + englishRoute + ')'
+      }
+      return match
+    })
     fs.writeFileSync(output, text)
   } else {
     fs.writeFileSync(output, `# ${a.title}\n\n> 한국어 번역이 준비 중입니다. 현재 [영어 원문](/skylit/${relative.replace(/\\/g, '/').replace(/\.md$/, '')})을 읽을 수 있습니다.\n\n[원본 사이트](${a.url})\n`)
