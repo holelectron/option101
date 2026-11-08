@@ -5,7 +5,7 @@
 ## 📚 [START HERE — 문서 전체 목차](START_HERE.md)
 
 - [영어 원문 전체 목차](docs/skylit/INDEX.md)
-- [한국어 번역 목차](docs/skylit/KO_INDEX.md) (번역 작업 완료 후 생성)
+- [한국어 번역 목차](docs/skylit/KO_INDEX.md) (45개 재번역 완료)
 - [옵션 학습 로드맵](OPTIONS_STUDY.md)
 - [Skylit 원문 수집 결과](docs/skylit/manifest.json)
 
@@ -31,23 +31,19 @@ npm run docs:preview
 - 자동 빌드: [Validate VitePress Site](https://github.com/holelectron/option101/actions/workflows/vitepress-build.yml)
 - 사이트 빌드 ZIP: 성공한 Actions 실행의 **Artifacts**에서 `option101-vitepress-site` 다운로드
 
-사이트 빌드는 `scripts/prepare-site.mjs`가 번역본을 `docs/ko/skylit` 아래에 복사한 뒤 실행합니다. 아직 번역되지 않은 문서는 영어 원문 링크를 가진 안내 페이지로 표시합니다. 생성된 경로는 소스 번역 파일(`*.ko.md`)과 별개입니다.
+사이트 빌드는 `scripts/prepare-site.mjs`가 번역본을 `docs/ko/skylit` 아래에 복사한 뒤 실행합니다. 현재 45개 문서 모두 한국어 번역 파일이 있습니다. 생성된 경로는 소스 번역 파일(`*.ko.md`)과 별개입니다.
 
-### 🔒 공개 범위
+### 사이트 공개 범위
 
-원문이 포함된 **Private** 저장소를 외부에 게시하지 않도록 GitHub Pages 자동 배포는 설정하지 않았습니다. GitHub Actions에서 사이트 빌드와 비공개 아티팩트만 생성합니다. Pages 또는 외부 호스팅을 활성화하면 원문이 외부에 공개될 수 있습니다.
+GitHub 저장소는 Private이지만 GitHub Pages 사이트는 공개 배포합니다. [한국어 학습 사이트](https://holelectron.github.io/option101/ko/)에서 확인할 수 있습니다. 원문과 번역 자료를 웹에서 공개하므로 사용 권한 및 저작권 조건을 확인하세요.
 
 ## 번역 및 원문
 
-- 영어 HTML과 Markdown은 `docs/skylit/<category>/`에 보관
-- 한국어 자동 번역 초안은 `*.ko.md`로 보관
-- [한국어 번역 워크플로](https://github.com/holelectron/option101/actions/workflows/translate-skylit.yml)
+- **45개 문서 전부** 문맥 기반 자연스러운 한국어로 재번역 완료(2026-11-08)
+- 영어 Markdown·HTML은 `docs/skylit/<category>/`에 보존
+- 한국어 파일은 동일 폴더의 `*.ko.md`에 보존
+- [금융 용어집](TRANSLATION_GLOSSARY.md)
+- [한국어 목차](docs/skylit/KO_INDEX.md)
+- [번역 완료 현황·검수 원칙](TRANSLATION_WORKFLOW.md)
 
-> 자동 번역의 전문 용어와 숫자는 영어 원문을 대조해야 합니다. 자료는 학습용이며 투자 권유가 아닙니다.
-
-## 한국어 번역 품질 개선
-
-- [금융 용어집 및 한국어 스타일 기준](TRANSLATION_GLOSSARY.md)
-- [나머지 42개 문서 GPT 재번역 안내](TRANSLATION_WORKFLOW.md)
-
-기존 고품질 번역 3개는 보호하며, 다른 42개는 사용자가 API 키를 Actions Secret으로 등록한 후 수동으로 실행할 수 있습니다. 번역은 API 사용량에 따라 비용이 발생합니다.
+기존 Argos 자동 번역 스크립트는 기존 한국어 파일을 덮어쓰지 않습니다. 선택적인 GPT API 자동화는 별도 준비돼 있으나 **현재 번역을 열람하거나 사이트를 배포하는 데 API 키는 필요하지 않습니다.** AI 작성 번역으로, 독립적인 전문 감수를 의미하지 않습니다. 학습용 자료이며 투자 권유가 아닙니다.
