@@ -1,0 +1,36 @@
+name: Translate Skylit to Korean
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/translate_skylit.py'
+      - '.github/workflows/translate-skylit.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install translation dependencies
+        run: python -m pip install 'argostranslate>=1.9,<2' 'markdown>=3.5,<4' 'beautifulsoup4>=4.12,<5' 'markdownify>=0.13,<2'
+      - name: Translate archived documents
+        run: python scripts/translate_skylit.py
+      - name: Commit Korean translations
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/skylit/manifest.json docs/skylit/KO_INDEX.md || true
+          find docs/skylit -name '*.ko.md' -print0 | xargs -0 -r git add
+          if ! git diff --cached --quiet; then
+            git commit -m "Add Korean drafts for Skylit learning documents"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
