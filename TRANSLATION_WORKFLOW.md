@@ -1,3 +1,16 @@
+# 한국어 번역 진행 현황
+
+2026-11-08 기준: **45개 중 40개 문맥 기반 한국어 재번역 완료**, 영어 원문 45개 모두 보존.
+
+완료: Academy 12/12, Greeks 8/8, Heatseeker 7/7, Flowseeker 6/6, Tools 7/12.
+미완료 Tools: `options-day-trading-live-rooms`, `best-gex-tools-0dte-spx`, `options-data-api-mcp-ai-agents`, `spotgamma-alternatives`, `tempest-volatility-accuracy`.
+
+앞서 마련한 API 번역 워크플로는 **별도로 실행하지 않아도 됩니다.** 이번 개선본은 채팅에서 직접 번역·GitHub 커밋했으며, 기존 5개의 Argos 번역 초안은 보존되어 있습니다. 원문은 비교·판매 목적의 내용도 포함하므로 금융 사실과 공급사의 주장을 구분해야 합니다.
+
+검증 현황: [번역 구조·URL 대조 리포트](docs/skylit/manual_translation_review.json).
+
+---
+
 # 한국어 번역 고도화: 42개 문서 실행 안내
 
 ## 현재 상태
