@@ -31,8 +31,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Install audio renderer
-        run: python -m pip install 'edge-tts>=7,<9' 'pydub>=0.25,<1'
+      - name: Install FFmpeg and audio renderer
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          python -m pip install 'edge-tts>=7,<9' 'pydub>=0.25,<1'
+          ffmpeg -version | head -n 1
+          ffprobe -version | head -n 1
       - name: Validate renderer syntax
         run: python -m py_compile scripts/render_option101_podcast.py
       - name: Render dialogue audio
