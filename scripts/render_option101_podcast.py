@@ -69,7 +69,7 @@ async def synthesize(speaker: str, text: str, path: Path, rate: str) -> None:
             await asyncio.sleep(2 * (attempt + 1))
 
 
-async def render(source: Path, destination: Path, max_turns: int, rate: str) -> None:
+async def render(source: Path, destination: Path, max_turns: int, rate: str, title: str, track: str) -> None:
     turns = extract_turns(source.read_text(encoding="utf-8"))
     if max_turns:
         turns = turns[:max_turns]
@@ -101,10 +101,10 @@ async def render(source: Path, destination: Path, max_turns: int, rate: str) -> 
             format="mp3",
             bitrate="112k",
             tags={
-                "title": "차트가 먼저다 — 감마의 브레이크와 가속 페달",
+                "title": title,
                 "artist": "option101 오디오 클래스",
                 "album": "option101 오디오 클래스",
-                "track": "1",
+                "track": track,
                 "language": "kor",
             },
         )
@@ -117,8 +117,9 @@ def main() -> None:
     parser.add_argument("--output", default="docs/public/podcast/ep01.mp3")
     parser.add_argument("--max-turns", type=int, default=0, help="For a short test render")
     parser.add_argument("--rate", default="-6%", help="Edge TTS speaking rate")
+    parser.add_argument("--title", default="차트가 먼저다 — 감마의 브레이크와 가속 페달")\n    parser.add_argument("--track", default="1")
     args = parser.parse_args()
-    asyncio.run(render(Path(args.input), Path(args.output), args.max_turns, args.rate))
+    asyncio.run(render(Path(args.input), Path(args.output), args.max_turns, args.rate, args.title, args.track))
 
 
 if __name__ == "__main__":
