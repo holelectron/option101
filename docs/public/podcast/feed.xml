@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>option101 오디오 클래스</title>
+    <link>https://holelectron.github.io/option101/podcast/</link>
+    <description>운전과 이동 중 화면 없이 듣는 한국어 옵션 교육. 지훈과 수아의 대화로 델타, 감마, 베가, 세타, 딜러 헤징, GEX와 VEX의 기초를 배웁니다. 금융 학습용으로 투자 권유가 아닙니다.</description>
+    <language>ko-kr</language>
+    <itunes:author>option101</itunes:author>
+    <itunes:summary>한국어 2인 대화형 옵션 교육 팟캐스트</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <category>Education</category>
+    <lastBuildDate>Thu, 12 Nov 2026 00:10:00 GMT</lastBuildDate>
+    <item>
+      <title>2화. 델타·감마·베가·세타 — 옵션 가격을 움직이는 네 가지 힘</title>
+      <description>주가 방향을 맞혀도 콜옵션에서 손실이 날 수 있는 이유를 숫자와 사례로 풀어봅니다. 델타, 감마, 베가, 세타를 차례로 이해하고 IV 크러시와 시간가치를 함께 살펴봅니다.</description>
+      <guid isPermaLink="false">option101-ko-ep02-greeks</guid>
+      <pubDate>Thu, 12 Nov 2026 00:08:00 GMT</pubDate>
+      <enclosure url="https://holelectron.github.io/option101/podcast/ep02.mp3" length="12740267" type="audio/mpeg" />
+      <itunes:duration>15:10</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>1화. 차트가 먼저다 — 감마의 브레이크와 가속 페달</title>
+      <description>차트 구조에서 가설을 만들고 GEX로 검증하는 순서를 배우며, 양의 감마와 음의 감마를 자동차의 브레이크와 가속 페달에 비유해 설명합니다.</description>
+      <guid isPermaLink="false">option101-ko-ep01-charts-gamma</guid>
+      <pubDate>Thu, 12 Nov 2026 00:01:00 GMT</pubDate>
+      <enclosure url="https://holelectron.github.io/option101/podcast/ep01.mp3" length="11867291" type="audio/mpeg" />
+      <itunes:duration>14:08</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
