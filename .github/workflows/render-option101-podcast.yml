@@ -12,6 +12,7 @@ on:
     branches: [main]
     paths:
       - 'podcast/EP01-charts-and-gamma.md'
+      - 'podcast/EP02-greeks-four-forces.md'
       - 'scripts/render_option101_podcast.py'
       - '.github/workflows/render-option101-podcast.yml'
 
@@ -48,6 +49,7 @@ jobs:
             python scripts/render_option101_podcast.py --max-turns 4 --output docs/public/podcast/ep01-preview.mp3
           else
             python scripts/render_option101_podcast.py --output docs/public/podcast/ep01.mp3
+            python scripts/render_option101_podcast.py --input podcast/EP02-greeks-four-forces.md --output docs/public/podcast/ep02.mp3 --track 2 --title '델타·감마·베가·세타 — 옵션 가격을 움직이는 네 가지 힘'
           fi
       - name: Upload audio artifact
         uses: actions/upload-artifact@v4
@@ -60,7 +62,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/public/podcast/ep01.mp3
+          git add docs/public/podcast/ep01.mp3 docs/public/podcast/ep02.mp3
           if ! git diff --cached --quiet; then
             git commit -m "Publish option101 conversational podcast EP01 audio"
             git pull --rebase origin main
