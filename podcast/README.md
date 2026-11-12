@@ -15,7 +15,7 @@
 | 회차 | 제목 | 핵심 원문 | 예상 분량 | 상태 |
 | --- | --- | --- | --- | --- |
 | **01** | 차트가 먼저다 — 감마의 브레이크와 가속 페달 | Charts First, Intro to Gamma | **14분 8초** | **MP3 제작 완료** |
-| 02 | 델타·감마·베가·세타: 옵션의 네 가지 언어 | Options Greeks, Delta, Gamma, Vega, Theta | 분량 유동적 | **2인 대화형 대본 완료 / 오디오 제작 중** |
+| **02** | 델타·감마·베가·세타: 옵션의 네 가지 언어 | Options Greeks, Delta, Gamma, Vega, Theta | **15분 10초** | **MP3 제작 완료** |
 | 03 | 딜러는 왜 사고파는가? 카지노 비유로 이해하는 헤징 | Dealer Positioning | 10~12분 | 기획 |
 | 04 | 감마 익스포저와 킹 노드 | Gamma Exposure, Reading Heatseeker | 10~12분 | 기획 |
 | 05 | 박스권과 돌파: 양의 감마와 음의 감마 | Gamma Regimes, GEX Trading | 10~12분 | 기획 |
@@ -45,11 +45,12 @@
 ## 현재 이용 가능한 파일
 
 - [1화 MP3 듣기](https://holelectron.github.io/option101/podcast/ep01.mp3) · [1화 대본](EP01-charts-and-gamma.md)
-- [2화 대본](EP02-greeks-four-forces.md) · [팟캐스트 재생 페이지](https://holelectron.github.io/option101/podcast/)
+- [2화 MP3 듣기](https://holelectron.github.io/option101/podcast/ep02.mp3) · [2화 대본](EP02-greeks-four-forces.md)
+- [팟캐스트 웹 재생 페이지](https://holelectron.github.io/option101/podcast/) · [RSS 구독 피드](https://holelectron.github.io/option101/podcast/feed.xml)
 
 ## 오디오 게시 준비 상태
 
-첫 회 **남녀 두 음성 합성 MP3 제작을 완료**했고, 2화까지 이어지는 자동화도 GitHub에 구성했습니다. 음성 제작은 GitHub Actions의 [Render Korean option101 podcast](https://github.com/holelectron/option101/actions/workflows/render-option101-podcast.yml)에서 실행합니다. 작업이 성공하면 `docs/public/podcast/ep01.mp3`에 음성 파일을 커밋하고 GitHub Pages 배포가 이어지도록 설계했습니다. **MP3 및 RSS 피드의 실제 배포 여부는 워크플로 실행 결과를 확인해야 합니다.**
+**1·2회 남녀 두 음성 MP3 제작을 완료**했고, 이후 회차를 확장할 자동화도 GitHub에 구성했습니다. 음성 제작은 GitHub Actions의 [Render Korean option101 podcast](https://github.com/holelectron/option101/actions/workflows/render-option101-podcast.yml)에서 실행합니다. 작업이 성공하면 `docs/public/podcast/ep01.mp3`에 음성 파일을 커밋하고 GitHub Pages 배포가 이어지도록 설계했습니다. **MP3 및 RSS 피드의 실제 배포 여부는 워크플로 실행 결과를 확인해야 합니다.**
 
 휴대전화에서 안정적으로 재생하고 차량의 블루투스·CarPlay·Android Auto 오디오로 듣기 위해서는 자연스러운 한국어 TTS 또는 녹음으로 **오디오 파일을 먼저 만들어야** 합니다. 이후 MP3 파일을 호스팅하고 필요하면 팟캐스트 RSS 피드를 구성할 수 있습니다.
 
