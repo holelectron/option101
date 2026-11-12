@@ -117,7 +117,8 @@ def main() -> None:
     parser.add_argument("--output", default="docs/public/podcast/ep01.mp3")
     parser.add_argument("--max-turns", type=int, default=0, help="For a short test render")
     parser.add_argument("--rate", default="-6%", help="Edge TTS speaking rate")
-    parser.add_argument("--title", default="차트가 먼저다 — 감마의 브레이크와 가속 페달")\n    parser.add_argument("--track", default="1")
+    parser.add_argument("--title", default="차트가 먼저다 — 감마의 브레이크와 가속 페달")
+    parser.add_argument("--track", default="1")
     args = parser.parse_args()
     asyncio.run(render(Path(args.input), Path(args.output), args.max_turns, args.rate, args.title, args.track))
 
