@@ -11,22 +11,22 @@
 **내용:** 지지·저항과 차트 우선 원칙, 델타·감마 개념, 양의 감마와 음의 감마가 딜러 헤징에 미칠 수 있는 영향.
 
 <audio controls preload="none" style="width:100%">
-  <source src="/option101/podcast/ep01.mp3" type="audio/mpeg">
+  <source src="https://holelectron.github.io/option101/podcast/ep01.mp3" type="audio/mpeg">
   브라우저에서 오디오 재생을 지원하지 않습니다.
 </audio>
 
-[1화 MP3 직접 열기](/option101/podcast/ep01.mp3) · [1화 대본](https://github.com/holelectron/option101/blob/main/podcast/EP01-charts-and-gamma.md)
+[1화 MP3 직접 열기](https://holelectron.github.io/option101/podcast/ep01.mp3) · [1화 대본](https://github.com/holelectron/option101/blob/main/podcast/EP01-charts-and-gamma.md)
 
 ### 2화 · 델타·감마·베가·세타 — 옵션 가격을 움직이는 네 가지 힘
 
 **내용:** 주가가 올라도 콜옵션에서 손실이 날 수 있는 이유, 그릭스별 실제 숫자 예시, IV 크러시와 시간가치 감소.
 
 <audio controls preload="none" style="width:100%">
-  <source src="/option101/podcast/ep02.mp3" type="audio/mpeg">
+  <source src="https://holelectron.github.io/option101/podcast/ep02.mp3" type="audio/mpeg">
   브라우저에서 오디오 재생을 지원하지 않습니다.
 </audio>
 
-[2화 MP3 직접 열기](/option101/podcast/ep02.mp3) · [2화 대본](https://github.com/holelectron/option101/blob/main/podcast/EP02-greeks-four-forces.md)
+[2화 MP3 직접 열기](https://holelectron.github.io/option101/podcast/ep02.mp3) · [2화 대본](https://github.com/holelectron/option101/blob/main/podcast/EP02-greeks-four-forces.md)
 
 오디오는 [GitHub Actions 자동 제작](https://github.com/holelectron/option101/actions/workflows/render-option101-podcast.yml)으로 생성합니다. 처음 공개할 때 브라우저 재생 또는 MP3 저장이 되지 않으면 제작 및 배포 상태를 먼저 확인하세요.
 
